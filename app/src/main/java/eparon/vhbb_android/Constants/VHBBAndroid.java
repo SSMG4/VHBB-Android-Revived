@@ -1,4 +1,4 @@
-package eparon.vhbb_android.Constants;
+package ssmga.vhbb_android.Constants;
 
 /**
  * Constants relating to VHBB-Android
@@ -20,8 +20,8 @@ public class VHBBAndroid {
 
 
     //region URL
-    public static final String BASE_URL             = "https://github.com/Electric1447/VHBB-Android";
-    public static final String BASE_URL_RAW         = "https://raw.githubusercontent.com/Electric1447/VHBB-Android/master/";
+    public static final String BASE_URL             = "https://github.com/SSMG4/VHBB-Android-Revived";
+    public static final String BASE_URL_RAW         = "https://raw.githubusercontent.com/SSMG4/VHBB-Android-Revived/master/";
     public static final String PLUGIN_LIST_JSON_URL = BASE_URL_RAW + "db/plugins_vhbb-android.json";
     public static final String EXTRAS_LIST_JSON_URL = BASE_URL_RAW + "db/extras_vhbb-android.json";
     public static final String DEFAULT_ICON_URL     = "https://i.imgur.com/0uoEviZ.png";
