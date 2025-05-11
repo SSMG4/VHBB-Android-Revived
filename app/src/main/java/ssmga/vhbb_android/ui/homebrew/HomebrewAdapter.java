@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.homebrew;
+package ssmga.vhbb_android.ui.homebrew;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -21,9 +21,9 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 import java.util.Locale;
 
-import eparon.vhbb_android.Constants.VitaDB;
-import eparon.vhbb_android.R;
-import eparon.vhbb_android.Utils.DownloadUtils;
+import ssmga.vhbb_android.Constants.VitaDB;
+import ssmga.vhbb_android.R;
+import ssmga.vhbb_android.Utils.DownloadUtils;
 
 public class HomebrewAdapter extends RecyclerView.Adapter<HomebrewAdapter.ViewHolder> {
 
