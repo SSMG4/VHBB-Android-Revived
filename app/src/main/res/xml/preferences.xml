@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/app_name"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="change_download_location"
+            android:summary="@string/prefs_custom_download_location_summery"
+            android:title="@string/prefs_custom_download_location_title"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="clear_cache"
+            android:summary="@string/prefs_cache_summery"
+            android:title="@string/prefs_cache_title"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/about"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="about"
+            android:summary="@string/app_name"
+            android:title="@string/about"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="vitadb"
+            android:title="@string/menu_vitadb"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="github"
+            android:title="@string/menu_source_code"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

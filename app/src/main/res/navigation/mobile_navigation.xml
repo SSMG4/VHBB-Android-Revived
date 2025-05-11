@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_homebrew">
+
+    <fragment
+        android:id="@+id/nav_homebrew"
+        android:name="eparon.vhbb_android.ui.homebrew.HomebrewFragment"
+        android:label="@string/menu_homebrew_vitadb"
+        tools:layout="@layout/fragment_homebrew" />
+
+    <fragment
+        android:id="@+id/nav_plugins"
+        android:name="eparon.vhbb_android.ui.plugins.PluginsFragment"
+        android:label="@string/menu_plugins"
+        tools:layout="@layout/fragment_plugins" />
+
+    <fragment
+        android:id="@+id/nav_cbpsdb"
+        android:name="eparon.vhbb_android.ui.cbpsdb.CBPSDBFragment"
+        android:label="@string/menu_cbpsdb"
+        tools:layout="@layout/fragment_cbpsdb" />
+
+    <fragment
+        android:id="@+id/nav_extras"
+        android:name="eparon.vhbb_android.ui.extras.ExtrasFragment"
+        android:label="@string/menu_extras"
+        tools:layout="@layout/fragment_extras" />
+
+    <fragment
+        android:id="@+id/nav_customrepo"
+        android:name="eparon.vhbb_android.ui.customrepo.CustomRepoFragment"
+        android:label="@string/menu_customrepo"
+        tools:layout="@layout/fragment_customrepo" />
+
+</navigation>

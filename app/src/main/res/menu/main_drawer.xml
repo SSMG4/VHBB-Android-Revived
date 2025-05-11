@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_homebrew"
+            android:icon="@drawable/ic_menu_homebrew_24dp"
+            android:title="@string/menu_homebrew_vitadb" />
+
+        <item
+            android:id="@+id/nav_plugins"
+            android:icon="@drawable/ic_menu_plugins_24dp"
+            android:title="@string/menu_plugins" />
+
+        <item
+            android:id="@+id/nav_cbpsdb"
+            android:icon="@drawable/ic_menu_playstation_24dp"
+            android:title="@string/menu_cbpsdb" />
+
+        <item
+            android:id="@+id/nav_extras"
+            android:icon="@drawable/ic_menu_extras_24dp"
+            android:title="@string/menu_extras" />
+
+        <item
+            android:id="@+id/nav_customrepo"
+            android:icon="@drawable/ic_menu_customrepo_24dp"
+            android:title="@string/menu_customrepo" />
+
+    </group>
+
+    <group android:id="@+id/menu_group_about">
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="@string/menu_settings" />
+
+        <item
+            android:id="@+id/nav_vitadb"
+            android:title="@string/menu_vitadb" />
+
+        <item
+            android:id="@+id/nav_github"
+            android:title="@string/menu_source_code" />
+
+    </group>
+
+</menu>
