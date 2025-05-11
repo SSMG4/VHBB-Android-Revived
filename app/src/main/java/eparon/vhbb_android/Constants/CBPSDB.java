@@ -1,4 +1,4 @@
-package eparon.vhbb_android.Constants;
+package ssmga.vhbb_android.Constants;
 
 /**
  * Constants relating to CBPS-DB
@@ -36,7 +36,7 @@ public class CBPSDB {
 
 
     //region URL
-    public static final String CVS_URL_RAW      = "https://raw.githubusercontent.com/KuromeSan/cbps-db/master/cbpsdb.csv";
+    public static final String CVS_URL_RAW      = "https://raw.githubusercontent.com/LiEnby/cbps-db/refs/heads/master/cbpsdb.csv";
     //endregion
 
 }
