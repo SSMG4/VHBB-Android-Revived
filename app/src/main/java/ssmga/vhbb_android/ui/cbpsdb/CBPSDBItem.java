@@ -1,6 +1,6 @@
-package eparon.vhbb_android.ui.cbpsdb;
+package ssmga.vhbb_android.ui.cbpsdb;
 
-import eparon.vhbb_android.Constants.CBPSDB;
+import ssmga.vhbb_android.Constants.CBPSDB;
 
 public class CBPSDBItem {
 
