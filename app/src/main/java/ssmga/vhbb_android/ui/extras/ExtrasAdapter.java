@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.extras;
+package ssmga.vhbb_android.ui.extras;
 
 import android.app.Activity;
 import android.net.Uri;
@@ -18,8 +18,8 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
-import eparon.vhbb_android.R;
-import eparon.vhbb_android.Utils.DownloadUtils;
+import ssmga.vhbb_android.R;
+import ssmga.vhbb_android.Utils.DownloadUtils;
 
 public class ExtrasAdapter extends RecyclerView.Adapter<ExtrasAdapter.ViewHolder> {
 
