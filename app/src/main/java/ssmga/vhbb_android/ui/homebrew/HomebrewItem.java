@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.homebrew;
+package ssmga.vhbb_android.ui.homebrew;
 
 import android.annotation.SuppressLint;
 
@@ -6,8 +6,8 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import eparon.vhbb_android.BaseItem;
-import eparon.vhbb_android.Constants.VitaDB;
+import ssmga.vhbb_android.BaseItem;
+import ssmga.vhbb_android.Constants.VitaDB;
 
 /**
  * Homebrew item
