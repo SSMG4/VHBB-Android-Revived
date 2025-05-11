@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">VHBB Android</string>
 
-    <string name="nav_header_subtitle">Created by Itai Levin (Electric1447)</string>
+    <string name="nav_header_subtitle">Revived by SSMG4 (Created by Electric1447)</string>
     <string name="nav_header_desc">Navigation header</string>
 
     <string name="err_network_not_available">Network not available</string>
