@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.cbpsdb;
+package ssmga.vhbb_android.ui.cbpsdb;
 
 import android.annotation.SuppressLint;
 import android.os.AsyncTask;
@@ -28,8 +28,8 @@ import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.List;
 
-import eparon.vhbb_android.Constants.CBPSDB;
-import eparon.vhbb_android.R;
+import ssmga.vhbb_android.Constants.CBPSDB;
+import ssmga.vhbb_android.R;
 
 public class CBPSDBFragment extends Fragment {
 
