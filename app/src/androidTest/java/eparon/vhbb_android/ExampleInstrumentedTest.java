@@ -1,4 +1,4 @@
-package eparon.vhbb_android;
+package ssmga.vhbb_android;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext () {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("eparon.vhbb_android", appContext.getPackageName());
+        assertEquals("ssmga.vhbb_android", appContext.getPackageName());
     }
 }
