@@ -1,16 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 35
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "eparon.vhbb_android"
+        applicationId "ssmga.vhbb_android"
         minSdkVersion 21
         //noinspection OldTargetApi
-        targetSdkVersion 29
-        versionCode 13
-        versionName 'beta-11'
+        targetSdkVersion 30
+        versionCode 14
+        versionName 'beta-12'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         resConfigs "en"
