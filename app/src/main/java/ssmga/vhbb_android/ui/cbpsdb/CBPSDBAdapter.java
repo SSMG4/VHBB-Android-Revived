@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.cbpsdb;
+package ssmga.vhbb_android.ui.cbpsdb;
 
 import android.app.Activity;
 import android.net.Uri;
@@ -18,10 +18,10 @@ import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
-import eparon.vhbb_android.Constants.CBPSDB;
-import eparon.vhbb_android.Constants.VHBBAndroid;
-import eparon.vhbb_android.R;
-import eparon.vhbb_android.Utils.DownloadUtils;
+import ssmga.vhbb_android.Constants.CBPSDB;
+import ssmga.vhbb_android.Constants.VHBBAndroid;
+import ssmga.vhbb_android.R;
+import ssmga.vhbb_android.Utils.DownloadUtils;
 
 public class CBPSDBAdapter extends RecyclerView.Adapter<CBPSDBAdapter.ViewHolder> {
 
