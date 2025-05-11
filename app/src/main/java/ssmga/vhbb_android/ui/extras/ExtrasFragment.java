@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.extras;
+package ssmga.vhbb_android.ui.extras;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -25,8 +25,8 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import eparon.vhbb_android.Constants.VHBBAndroid;
-import eparon.vhbb_android.R;
+import ssmga.vhbb_android.Constants.VHBBAndroid;
+import ssmga.vhbb_android.R;
 
 public class ExtrasFragment extends Fragment {
 
