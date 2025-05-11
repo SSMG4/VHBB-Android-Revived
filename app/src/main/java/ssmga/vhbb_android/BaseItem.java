@@ -1,4 +1,4 @@
-package eparon.vhbb_android;
+package ssmga.vhbb_android;
 
 import java.io.Serializable;
 
