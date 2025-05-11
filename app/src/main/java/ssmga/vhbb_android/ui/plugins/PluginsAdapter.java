@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.plugins;
+package ssmga.vhbb_android.ui.plugins;
 
 import android.app.Activity;
 import android.net.Uri;
@@ -14,8 +14,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import eparon.vhbb_android.R;
-import eparon.vhbb_android.Utils.DownloadUtils;
+import ssmga.vhbb_android.R;
+import ssmga.vhbb_android.Utils.DownloadUtils;
 
 public class PluginsAdapter extends RecyclerView.Adapter<PluginsAdapter.ViewHolder> {
 
