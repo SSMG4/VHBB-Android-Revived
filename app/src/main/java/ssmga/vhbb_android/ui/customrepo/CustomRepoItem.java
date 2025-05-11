@@ -1,6 +1,6 @@
-package eparon.vhbb_android.ui.customrepo;
+package ssmga.vhbb_android.ui.customrepo;
 
-import eparon.vhbb_android.BaseItem;
+import ssmga.vhbb_android.BaseItem;
 
 /**
  * Custom Repository item
