@@ -1,4 +1,4 @@
-package eparon.vhbb_android.ui.customrepo;
+package ssmga.vhbb_android.ui.customrepo;
 
 import android.os.Bundle;
 import android.text.InputType;
@@ -31,8 +31,8 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import eparon.vhbb_android.Constants.VHBBAndroid;
-import eparon.vhbb_android.R;
+import ssmga.vhbb_android.Constants.VHBBAndroid;
+import ssmga.vhbb_android.R;
 
 public class CustomRepoFragment extends Fragment {
 
