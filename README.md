@@ -5,6 +5,10 @@
 
 Vita Homebrew Browser client for Android
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SSMG4/VHBB-Android-Revived/total)
+![GitHub Repo stars](https://img.shields.io/github/stars/SSMG4/VHBB-Android-Revived)
+![GitHub top language](https://img.shields.io/github/languages/top/SSMG4/VHBB-Android-Revived)
+
 ### Features
 - VitaDB page containing all its homebrews.
 - Custom plugin database containing over 95% of all the PS Vita plugins. (needs maintaining)
