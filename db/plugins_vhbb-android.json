@@ -83,7 +83,7 @@
 		"name": "cidSpoofer",
 		"filename": "cidSpoof.skprx",
 		"version": "v1.0",
-		"author": "SilicaAndPina",
+		"author": "LiEnby",
 		"description": "Spoof CID (ConsoleID) on the PS Vita",
 		"url": "https://bitbucket.org/lienby/cidspoofer/downloads/cidSpoof.skprx"
 	},
@@ -163,7 +163,7 @@
 		"name": "DolcePolce",
 		"filename": "DolcePolce.suprx",
 		"version": "v1.0",
-		"author": "SilicaAndPina",
+		"author": "LiEnby",
 		"description": "Plugin that patches the PS TV Blacklist checks directly from SceShell",
 		"url": "https://bitbucket.org/lienby/dolcepolce/downloads/DolcePolce.suprx"
 	},
@@ -220,7 +220,7 @@
 		"filename": "EmergencyMount.skprx",
 		"version": "v1.0",
 		"author": "teakhanirons",
-		"description": "This plugin provides a brick protection for PS Vita.",
+		"description": "This plugin provides a brick protection for the PS Vita.",
 		"url": "https://github.com/teakhanirons/EmergencyMount/releases/download/1.0/EmergencyMount.skprx"
 	},
 	{
@@ -232,7 +232,7 @@
 		"url": "https://github.com/TheOfficialFloW/FdFix/releases/download/v1.0/fd_fix.skprx"
 	},
 	{
-		"name": "forcelang",
+		"name": "Forcelang",
 		"filename": "forcelang.suprx",
 		"version": "v0.2",
 		"author": "xdanieldzd & theheroGAC",
@@ -240,51 +240,59 @@
 		"url": "https://github.com/theheroGAC/forcelang/releases/download/v0.2/forcelang.suprx"
 	},
 	{
+		"name": "Framecapper",
+		"filename": "Framecapper.zip",
+		"version": "v1.1",
+		"author": "Rinnegatamante",
+		"description": "Plugin that allows you to force a 20/30 FPS framecap on PSVita apps.",
+		"url": "https://github.com/Rinnegatamante/Framecapper/releases/download/v.1.1/Framecapper.zip"
+	},
+	{
 		"name": "Framecounter",
 		"filename": "Framecounter.rar",
-		"version": "v1.2",
+		"version": "v1.0",
 		"author": "Rinnegatamante",
-		"description": "FPS counter plugin for PSVITA.",
+		"description": "FPS counter plugin for the PS Vita.",
 		"url": "https://github.com/Rinnegatamante/Framecounter/releases/download/v.1.0/Framecounter.rar"
 	},
 	{
 		"name": "FreePSM",
 		"filename": "FreePSM-v1.1.suprx",
 		"version": "v1.1",
-		"author": "SilicaAndPina",
+		"author": "LiEnby",
 		"description": "Enables Debug PSM InAppPurchases in retail PSM Runtime",
-		"url": "https://bitbucket.org/SilicaAndPina/freepsm/downloads/FreePSM-v1.1.suprx"
+		"url": "https://bitbucket.org/lienby/freepsm/downloads/FreePSM-v1.1.suprx"
 	},
 	{
-		"name": "ftpeverywhere",
+		"name": "FTP Everywhere",
 		"filename": "ftpeverywhere.suprx",
 		"version": "v1.0",
 		"author": "teakhanirons",
-		"description": "An always-on background FTP server plugin for PS Vita.",
+		"description": "An always-on background FTP server plugin for the PS Vita.",
 		"url": "https://github.com/teakhanirons/ftpeverywhere/releases/download/1.0/ftpeverywhere.suprx"
 	},
 	{
-		"name": "ftpeverywhere xmc0: edition",
+		"name": "FTP Everywhere xmc0: Edition",
 		"filename": "ftpeverywhere.suprx",
 		"version": "v1.0-mod",
 		"author": "nikowfreak",
-		"description": "An always-on background FTP server plugin for PS Vita.",
+		"description": "An always-on background FTP server plugin for the PS Vita.",
 		"url": "https://github.com/nikowfreak/ftpeverywhere/releases/download/1.0-mod/ftpeverywhere.suprx"
 	},
 	{
 		"name": "FuckPSSE",
 		"filename": "FuckPSSEv1.1.suprx",
 		"version": "v1.1",
-		"author": "SilicaAndPina",
-		"description": "THIS PLUGIN IS ONLY USEFUL FOR DEVELOPERS AND THOSE WHO WANT TO MOD PSM GAMES",
-		"url": "https://bitbucket.org/SilicaAndPina/fuckpsse/downloads/FuckPSSEv1.1.suprx"
+		"author": "LiEnby",
+		"description": "THIS PLUGIN IS ONLY USEFUL FOR DEVELOPERS AND THOSE WHO WANT TO MOD PSM GAMES.",
+		"url": "https://bitbucket.org/LiEnby/fuckpsse/downloads/FuckPSSEv1.1.suprx"
 	},
 	{
 		"name": "HonRipper",
 		"filename": "HonRipper.suprx",
 		"version": "v1.0",
 		"author": "GrapheneCt",
-		"description": "Plugin for PS Vita that allows to extract data from .MNH books.",
+		"description": "Plugin for the PS Vita that allows you to extract data from .MNH books.",
 		"url": "https://github.com/GrapheneCt/HonRipper/releases/download/v1.0/HonRipper.suprx"
 	},
 	{
@@ -292,31 +300,31 @@
 		"filename": "InfiniteNet.suprx",
 		"version": "v1.0",
 		"author": "Rinnegatamante",
-		"description": "Prevent games from disabling net features.",
+		"description": "Prevents games from disabling net features.",
 		"url": "https://dl.coolatoms.org/vitadb/InfiniteNet.suprx"
 	},
 	{
-		"name": "ioplus",
+		"name": "IOPlus",
 		"filename": "ioplus.skprx",
 		"version": "v0.1",
 		"author": "dots-tb",
-		"description": "A PSVita kernel plugin that allows more IO operations in userland.",
+		"description": "A PS Vita kernel plugin that allows more IO operations in userland.",
 		"url": "https://github.com/CelesteBlue-dev/PSVita-RE-tools/raw/master/ioPlus/ioPlus-0.1/release/ioplus.skprx"
 	},
 	{
-		"name": "kubridge",
+		"name": "Kubridge",
 		"filename": "kubridge.skprx",
-		"version": "v0.1",
-		"author": "TheOfficialFloW",
-		"description": "DynaRec feature extender plugin for PSVITA.",
-		"url": "https://github.com/TheOfficialFloW/kubridge/releases/download/v0.1/kubridge.skprx"
+		"version": "v0.3.1 Hotfix",
+		"author": "TheOfficialFloW & Bythos",
+		"description": "DynaRec feature extender plugin for the PS Vita.",
+		"url": "https://github.com/bythos14/kubridge/releases/download/v0.3.1_hotfix/kubridge.skprx"
 	},
 	{
 		"name": "LOLIcon",
 		"filename": "LOLIcon.skprx",
-		"version": "v1.0.1.1 HOTFIX A",
+		"version": "v1.0.1.1 Hotfix A",
 		"author": "dots-tb",
-		"description": "Small vita shell ran from kernel that allows for actual overclocking",
+		"description": "Small Vita shell ran from the kernel that allows for actual overclocking.",
 		"url": "https://github.com/dots-tb/LOLIcon/releases/download/1.0.1.1/LOLIcon.skprx"
 	},
 	{
