@@ -23,3 +23,12 @@ Vita Homebrew Browser client for Android
 
 ## Notes
 - If a new update to the extras page or the plugins page is up, its best that you go to the app's settings and clear the cache to see it
+
+## To Do
+- [ ] Update The Source Code
+- [ ] Add More Features
+
+## Credits
+- [Electric1447](https://github.com/Electric1447) - For creating the project
+- [SSMG4](https://github.com/SSMG4) - For reviving the project
+- [Original Project](https://github.com/Electric1447/VHBB-Android)
