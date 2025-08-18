@@ -1,15 +1,14 @@
-# VHBB-Android (DEPRECATED)
+# VHBB-Android Revived
 
-EDIT: This project has been merged with another project called [PSVita Utils](https://github.com/SSMG4/PSVita-Utils) and will not see any future updates.
-
-Last Update: 2025.06.27
+Latest Update: 2025.08.18
+Latest Version: beta-12
 
 Vita Homebrew Browser client for Android
 
 ### Features:
 - See all homebrew from VitaDB.
 - Custom plugin database containing 95% of all vita plugins.
-- See all homebrew & plugins from CBPS-DB.
+- See all homebrew & plugins from CBPS-DB. (W.I.P)
 - Some Extra apps.
 - Download homebrew & plugins to your Android device.
 - Search
