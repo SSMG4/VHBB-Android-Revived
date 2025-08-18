@@ -12,7 +12,7 @@
 		"icon": "https://rinnegatamante.eu/vitadb/icons/d2e291dcd6bc6b02a9f808e6d41f84281258967300fee882c6fa6c81c369bd43.png"
 	},
 	{
-		"name": "RetroArch Nightly",
+		"name": "RetroArch",
 		"filename": "RetroArch.vpk",
 		"data_filename": "",
 		"version": "Nightly",
@@ -30,7 +30,7 @@
 		"version": "v4.21",
 		"author": "theheroGAC",
 		"description": "Fully fledged plugin database for the PS Vita.",
-		"url": "https://github.com/theheroGAC/Autoplugin/releases/download/latest/Autoplugin.vpk",
+		"url": "https://github.com/theheroGAC/Autoplugin/releases/download/4.21/Autoplugin.vpk",
 		"data_url": "",
 		"date": "29/02/2020",
 		"icon": "https://i.imgur.com/QUZ5NS5.png"
@@ -42,7 +42,7 @@
 		"version": "v2.17",
 		"author": "Team ONElua & theheroGAC",
 		"description": "A new, more updated version of Autoplugin for the PS Vita.",
-		"url": "https://github.com/ONElua/AutoPlugin2/releases/download/latest/AutoPlugin2.vpk",
+		"url": "https://github.com/ONElua/AutoPlugin2/releases/download/2.17/AutoPlugin2.vpk",
 		"data_url": "",
 		"date": "26/06/2025",
 		"icon": "https://i.imgur.com/mHA2Pqt.png"
@@ -78,7 +78,7 @@
 		"version": "v2.3",
 		"author": "SKGleba & TheOfficialFloW",
 		"description": "modoru means to go back in Japanese and is a downgrader for the PS Vita.",
-		"url": "https://github.com/SKGleba/modoru/releases/download/latest/modoru.vpk",
+		"url": "https://github.com/SKGleba/modoru/releases/download/2.3/modoru.vpk",
 		"data_url": "",
 		"date": "10/05/2022",
 		"icon": "https://rinnegatamante.eu/vitadb/icons/d5c67c3c0cf826d0cfc6a07527ad008bfe99e8a4ad1452bf84ccf73a6b11cc21.png"
@@ -90,7 +90,7 @@
 		"version": "v3.21",
 		"author": "Team ONElue",
 		"description": "OneMenu is a simple to use UI which separates the installed games and apps into categories.",
-		"url": "https://github.com/ONElua/ONEMenu-for-PSVita/releases/download/latest/ONEMenuVita.vpk",
+		"url": "https://github.com/ONElua/ONEMenu-for-PSVita/releases/download/3.21/ONEMenuVita.vpk",
 		"data_url": "",
 		"date": "25/12/2024",
 		"icon": "https://i.imgur.com/a4lvml4.png"
@@ -102,7 +102,7 @@
 		"version": "v1.11",
 		"author": "theheroGAC",
 		"description": "Auto install 20 emulators on Adrenaline in 3 minutes.",
-		"url": "https://github.com/theheroGAC/PSP-EMULATORS-INSTALLER/releases/download/latest/PSP.Emulators.Installer.vpk",
+		"url": "https://github.com/theheroGAC/PSP-EMULATORS-INSTALLER/releases/download/1.11/PSP.Emulators.Installer.vpk",
 		"data_url": "",
 		"date": "22/08/2020",
 		"icon": "https://raw.githubusercontent.com/theheroGAC/PSP-EMULATORS-INSTALLER/master/sce_sys/icon0.png"
@@ -114,7 +114,7 @@
 		"version": "v1.3",
 		"author": "devnoname120",
 		"description": "Modified version of Registry Editor",
-		"url": "https://github.com/devnoname120/RegistryEditorMOD/releases/download/latest/RegistryEditor.vpk",
+		"url": "https://github.com/devnoname120/RegistryEditorMOD/releases/download/1.3/RegistryEditor.vpk",
 		"data_url": "",
 		"date": "01/09/2019",
 		"icon": "https://rinnegatamante.eu/vitadb/icons/63af1b0fe121e2e9de3fe8e9b8668aec095bb44b5c1697be40f10b59df133e6f.png"
@@ -150,7 +150,7 @@
 		"version": "v1.07",
 		"author": "theheroGAC",
 		"description": "Simple application to use youtube on the PS Vita",
-		"url": "https://github.com/theheroGAC/TubeVita/releases/download/latest/Tubevita.vpk",
+		"url": "https://github.com/theheroGAC/TubeVita/releases/download/1.07/Tubevita.vpk",
 		"data_url": "",
 		"date": "14/05/2019",
 		"icon": "https://i.imgur.com/xY5xbTT.png"
