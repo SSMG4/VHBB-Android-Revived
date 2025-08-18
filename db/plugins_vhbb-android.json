@@ -4,7 +4,7 @@
 		"filename": "0syscall6.skprx",
 		"version": "v1.3",
 		"author": "SKGleba",
-		"description": "A tool that patches PS Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks)",
+		"description": "A tool that patches the PS Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks)",
 		"url": "https://github.com/SKGleba/0syscall6/releases/download/v1.3/0syscall6.skprx"
 	},
 	{
@@ -20,7 +20,7 @@
 		"filename": "AnalogStickDisable.skprx",
 		"version": "v1.2",
 		"author": "Hack-Usagi",
-		"description": "Plug-in for disabling PSVita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable.skprx"
 	},
 	{
@@ -28,7 +28,7 @@
 		"filename": "AnalogStickDisable_LeftOnly.skprx",
 		"version": "v1.2",
 		"author": "Hack-Usagi",
-		"description": "Plug-in for disabling PSVita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_LeftOnly.skprx"
 	},
 	{
@@ -36,7 +36,7 @@
 		"filename": "AnalogStickDisable_LeftToRight.skprx",
 		"version": "v1.2",
 		"author": "Yoti",
-		"description": "Plug-in for disabling PSVita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_LeftToRight.skprx"
 	},
 	{
@@ -44,7 +44,7 @@
 		"filename": "AnalogStickDisable_RightOnly.skprx",
 		"version": "v1.2",
 		"author": "Hack-Usagi",
-		"description": "Plug-in for disabling PSVita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_RightOnly.skprx"
 	},
 	{
@@ -52,7 +52,7 @@
 		"filename": "AnalogStickDisable_RightToLeft.skprx",
 		"version": "v1.2",
 		"author": "Yoti",
-		"description": "Plug-in for disabling PSVita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_RightToLeft.skprx"
 	},
 	{
@@ -60,7 +60,7 @@
 		"filename": "AnalogStickDisable_SwapLeftAndRight.skprx",
 		"version": "v1.2",
 		"author": "Yoti",
-		"description": "Plug-in for disabling PSVita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_SwapLeftAndRight.skprx"
 	},
 	{
@@ -68,31 +68,31 @@
 		"filename": "AutoBoot.zip",
 		"version": "v1.2",
 		"author": "Rinnegatamante",
-		"description": "Launch an app on enso startup.",
+		"description": "Launches an app on enso startup.",
 		"url": "https://dl.coolatoms.org/vitadb/AutoBoot.zip"
 	},
 	{
 		"name": "BetterTrackPlug",
 		"filename": "BetterTrackPlug.zip",
-		"version": "v1.0.3",
+		"version": "v1.1",
 		"author": "fmudanyali",
-		"description": "Keeps track of how long you played your games",
-		"url": "https://github.com/FMudanyali/BetterTrackPlug/releases/download/1.0.3/BetterTrackPlug.zip"
+		"description": "Keeps track of how long you've played your games",
+		"url": "https://github.com/FMudanyali/BetterTrackPlug/releases/download/1.1/BetterTrackPlug.zip"
 	},
 	{
 		"name": "cidSpoofer",
 		"filename": "cidSpoof.skprx",
 		"version": "v1.0",
 		"author": "SilicaAndPina",
-		"description": "Spoof CID (ConsoleID) on PSVITA",
-		"url": "https://bitbucket.org/SilicaAndPina/cidspoofer/downloads/cidSpoof.skprx"
+		"description": "Spoof CID (ConsoleID) on the PS Vita",
+		"url": "https://bitbucket.org/lienby/cidspoofer/downloads/cidSpoof.skprx"
 	},
 	{
-		"name": "Cpu Affinity Changer",
+		"name": "CPU Affinity Changer",
 		"filename": "CpuAffinityChanger.skprx",
 		"version": "v2.0",
 		"author": "GrapheneCt",
-		"description": "Changes CPU affinity mask of PS Vita system applications to all user cores, which increases their performance",
+		"description": "Changes the CPU affinity mask of the PS Vita's system applications to all user cores, which increases their performance",
 		"url": "https://github.com/GrapheneCt/Affinity-Changer/releases/download/v2.0/CpuAffinityChanger.skprx"
 	},
 	{
@@ -100,7 +100,7 @@
 		"filename": "custom_boot_splash.skprx",
 		"version": "v1.0",
 		"author": "Princess of Sleeping",
-		"description": "Display Boot Splash on PS Vita / PS TV at boot.",
+		"description": "Displays a custom Boot Splash on the PS Vita / PS TV at boot.",
 		"url": "https://github.com/Princess-of-Sleeping/PSP2-CustomBootSplash/releases/download/v1.0/custom_boot_splash.skprx"
 	},
 	{
@@ -116,23 +116,31 @@
 		"filename": "custom_warning.suprx",
 		"version": "v2",
 		"author": "TheOfficialFloW",
-		"description": "Customize Warning screen on startup",
+		"description": "Customize the warning screen on startup",
 		"url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx"
 	},
 	{
 		"name": "dt2s",
-		"filename": "dt2s.zip",
-		"version": "v1.0",
+		"filename": "dt2s.suprx",
+		"version": "v1.1",
 		"author": "joel16",
-		"description": "Double tap screen to put Vita in standby.",
-		"url": "https://dl.coolatoms.org/vitadb/dt2s.zip"
+		"description": "Double tap your screen to put the PS Vita in standby.",
+		"url": "https://github.com/joel16/dt2s-vita/releases/download/v1.1/dt2s.suprx"
+	},
+	{
+		"name": "dt2s-statusbar",
+		"filename": "dt2s_statusbar.suprx",
+		"version": "v1.1",
+		"author": "joel16",
+		"description": "Double tap your screen on the status bar to put the PS Vita in standby.",
+		"url": "https://github.com/joel16/dt2s-vita/releases/download/v1.1/dt2s_statusbar.suprx"
 	},
 	{
 		"name": "déjàvu: Vita SaveState Plugin",
 		"filename": "dejavu.skprx",
 		"version": "v0.1",
 		"author": "TheOfficialFloW",
-		"description": "Savestate plugin for PSVITA/PSTV.",
+		"description": "Savestate plugin for the PS Vita/PS TV.",
 		"url": "https://github.com/TheOfficialFloW/dejavu/releases/download/v0.1/dejavu.skprx"
 	},
 	{
@@ -140,7 +148,7 @@
 		"filename": "deplayenabler.zip",
 		"version": "v1.0",
 		"author": "alpakeno",
-		"description": "Enable video debug play mode with the ability to change sd0 and ux0 folder path from configuration file.",
+		"description": "Enable video debug play mode with the ability to change the sd0 and ux0 folder path from the configuration file.",
 		"url": "https://github.com/alpakeno/DePlayEnabler/releases/download/1.0/deplayenabler.zip"
 	},
 	{
@@ -149,22 +157,22 @@
 		"version": "v1.0",
 		"author": "teakhanirons",
 		"description": "Vita clocks OSD display",
-		"url": "https://github.com/teakhanirons/DerInClocKS/releases/download/1.0/derinclocks.skprx"
+		"url": "https://drive.google.com/uc?export=download&id=1igfY9c7gWYoiuXZpeS66EzTlqA-rhxX4"
 	},
 	{
 		"name": "DolcePolce",
 		"filename": "DolcePolce.suprx",
 		"version": "v1.0",
 		"author": "SilicaAndPina",
-		"description": "This is a plugin that patches the PSTV Blacklist checks directly from SceShell",
-		"url": "https://bitbucket.org/SilicaAndPina/dolcepolce/downloads/DolcePolce.suprx"
+		"description": "Plugin that patches the PS TV Blacklist checks directly from SceShell",
+		"url": "https://bitbucket.org/lienby/dolcepolce/downloads/DolcePolce.suprx"
 	},
 	{
 		"name": "Download Enabler (VitaTweaks)",
 		"filename": "download_enabler.suprx",
 		"version": "v5",
 		"author": "TheOfficialFloW",
-		"description": "Allows to download any file from webbrowser.",
+		"description": "Allows you to download any files from the web browser.",
 		"url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/DownloadEnabler/download_enabler.suprx"
 	},
 	{
@@ -172,7 +180,7 @@
 		"filename": "ds3vita_beta_3.zip",
 		"version": "Beta3",
 		"author": "xerpi",
-		"description": "Use a Dualshock 3 as PSVITA controller.",
+		"description": "Use a Dualshock 3 as a PS Vita controller.",
 		"url": "https://github.com/xerpi/ds3vita/files/1185917/ds3vita_beta_3.zip"
 	},
 	{
@@ -180,7 +188,7 @@
 		"filename": "ds4touch.skprx",
 		"version": "v1.1.3",
 		"author": "Mer1e",
-		"description": "Adds ds4 touchpad support to PSTV/PSVita.",
+		"description": "Adds Dualshock 4 touchpad support to PS TV/PS Vita.",
 		"url": "https://github.com/MERLev/ds4Touch/releases/download/1.1.3/ds4touch.skprx"
 	},
 	{
@@ -188,7 +196,7 @@
 		"filename": "ds4vita_1.2.zip",
 		"version": "v1.2",
 		"author": "xerpi",
-		"description": "Use a Dualshock 4 as PSVITA controller.",
+		"description": "Use a Dualshock 4 as a PS Vita controller.",
 		"url": "https://github.com/xerpi/ds4vita/files/1185915/ds4vita_1.2.zip"
 	},
 	{
@@ -196,15 +204,15 @@
 		"filename": "dsmotion.zip",
 		"version": "v1.2",
 		"author": "OperationNT414C",
-		"description": "Enabled motion sensors on DS3/DS4.",
+		"description": "Enables motion sensors on DS3/DS4.",
 		"url": "https://drive.google.com/uc?export=download&id=174TPbJm2j5HDMcRXN1wSfpfTnQjT8Bom"
 	},
 	{
-		"name": "Dumping addcont IDs",
+		"name": "Dumping Addcont IDs",
 		"filename": "acid_dumper.skprx",
 		"version": "v1.0",
 		"author": "cuevavirus",
-		"description": "PS Vita addcont ID dumper",
+		"description": "PS Vita Addcont ID dumper",
 		"url": "https://forum.devchroma.nl/index.php?PHPSESSID=ce39e24e2c88c0022da48dbd3dfe52b5&action=dlattach;topic=93.0;attach=11"
 	},
 	{
@@ -212,7 +220,7 @@
 		"filename": "EmergencyMount.skprx",
 		"version": "v1.0",
 		"author": "teakhanirons",
-		"description": "This plugin provides a brick protection for Vita.",
+		"description": "This plugin provides a brick protection for PS Vita.",
 		"url": "https://github.com/teakhanirons/EmergencyMount/releases/download/1.0/EmergencyMount.skprx"
 	},
 	{
