@@ -19,7 +19,7 @@ Vita Homebrew Browser client for Android
 - Internet connection
 
 ## Screenshots
-<img src="screenshots/VitaDB-Preview.png"> &nbsp; <img src="screenshots/Plugins-Preview.png"> &nbsp; <img src="screenshots/CBPSDB-Preview.png"> &nbsp; <img src="screenshots/Extras-Preview.png"> &nbsp; <img src="screenshots/CustomRepos1-Preview.png"> &nbsp; <img src="screenshots/Drawer-Preview.png"> &nbsp; <img src="screenshots/Homebrew-Preview.png">
+<img src="screenshots/VitaDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Plugins-Preview.png"> &nbsp; <img src="screenshots/CBPSDB-Preview.png"> &nbsp; <img src="screenshots/Extras-Preview.png"> &nbsp; <img src="screenshots/CustomRepos1-Preview.png"> &nbsp; <img src="screenshots/Drawer-Preview.png"> &nbsp; <img src="screenshots/Homebrew-Preview.png">
 
 ## Notes
 - If a new update to the extras page or the plugins page is up, its best that you go to the app's settings and clear the cache to see it
