@@ -5,7 +5,7 @@
 
 Vita Homebrew Browser client for Android
 
-### Features:
+### Features
 - See all homebrew from VitaDB.
 - Custom plugin database containing 95% of all vita plugins.
 - See all homebrew & plugins from CBPS-DB. (W.I.P)
@@ -14,9 +14,12 @@ Vita Homebrew Browser client for Android
 - Search
 - You can get homebrew/plugin from custom repositories.
 
-### Requirements:
+### Requirements
 - Android device running Android 5.0 Lolipop or higher.
 - Internet connection
 
 ## Screenshots
 <img src="screenshots/screenshot_homebrew.png" width="400"> &nbsp; <img src="screenshots/screenshot_plugins.png" width="400"> &nbsp; <img src="screenshots/screenshot_cbpsdb.png" width="400"> &nbsp; <img src="screenshots/screenshot_extras.png" width="400"> &nbsp; <img src="screenshots/screenshot_customrepo.png" width="400"> &nbsp; <img src="screenshots/screenshot_drawer.png" width="400"> &nbsp; <img src="screenshots/screenshot_details.png" width="400">
+
+## Notes
+- If a new update to the extras page or the plugins page is up, its best that you go to the app's settings and clear the cache to see it
