@@ -27,6 +27,7 @@ Vita Homebrew Browser client for Android
 ## To Do
 - [ ] Update The Source Code
 - [ ] Add More Features
+- [ ] Update The Plugins Database
 
 ## Credits
 - [Electric1447](https://github.com/Electric1447) - For creating the project
