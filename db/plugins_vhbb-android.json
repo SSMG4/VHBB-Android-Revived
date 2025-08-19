@@ -1,11 +1,43 @@
 [
 	{
+		"name": "(QuickMenuReborn)",
+		"filename": "QuickMenuReborn.zip",
+		"version": "v2.5",
+		"author": "Ibrahim778",
+		"description": "Library for developers to easily add their own widgets to the vita's Quick Menu.",
+		"url": "https://drive.google.com/uc?export=download&id=1x7dj4FpoET7ai6BVKAnv7ur3lShSmuR1"
+	},
+	{
+		"name": "(QuickMenuReborn) DolceWiFi",
+		"filename": "DolceWiFi.suprx",
+		"version": "v1.2",
+		"author": "Ibrahim778",
+		"description": "Plugin to add an enable/disable toggle for WiFi in the quick menu on the PS TV.",
+		"url": "https://github.com/Ibrahim778/DolceWiFi/releases/download/V1.2/DolceWiFi.suprx"
+	},
+	{
+		"name": "(QuickMenuReborn) QuickLauncher",
+		"filename": "QuickLauncher.suprx",
+		"version": "v1.3",
+		"author": "Ibrahim778",
+		"description": "A plugin to add buttons to quickly launch apps in the Quick Menu.",
+		"url": "https://github.com/Ibrahim778/QuickLauncher/releases/download/V1.3/QuickLauncher.suprx"
+	},
+	{
 		"name": "0syscall6",
 		"filename": "0syscall6.skprx",
 		"version": "v1.3",
 		"author": "SKGleba",
 		"description": "A tool that patches the PS Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks).",
 		"url": "https://github.com/SKGleba/0syscall6/releases/download/v1.3/0syscall6.skprx"
+	},
+	{
+		"name": "8BitVita",
+		"filename": "8BitVita.zip",
+		"version": "v1.2",
+		"author": "Ibrahim778",
+		"description": "Connect 8BitDo controllers to the PS Vita",
+		"url": "https://drive.google.com/uc?export=download&id=1xZJY0xzcIzxI1u1ykG29vTnwC6nwsOb-"
 	},
 	{
 		"name": "AnalogsEnhancer",
