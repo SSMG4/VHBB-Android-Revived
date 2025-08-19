@@ -4,7 +4,7 @@
 		"filename": "0syscall6.skprx",
 		"version": "v1.3",
 		"author": "SKGleba",
-		"description": "A tool that patches the PS Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks)",
+		"description": "A tool that patches the PS Vita's lv0's secure_kernel's syscall 6 (SELF/RVK checks).",
 		"url": "https://github.com/SKGleba/0syscall6/releases/download/v1.3/0syscall6.skprx"
 	},
 	{
@@ -20,7 +20,7 @@
 		"filename": "AnalogStickDisable.skprx",
 		"version": "v1.2",
 		"author": "Hack-Usagi",
-		"description": "Plugin for disabling the PS Vita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more.",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable.skprx"
 	},
 	{
@@ -28,7 +28,7 @@
 		"filename": "AnalogStickDisable_LeftOnly.skprx",
 		"version": "v1.2",
 		"author": "Hack-Usagi",
-		"description": "Plugin for disabling the PS Vita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more.",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_LeftOnly.skprx"
 	},
 	{
@@ -36,7 +36,7 @@
 		"filename": "AnalogStickDisable_LeftToRight.skprx",
 		"version": "v1.2",
 		"author": "Yoti",
-		"description": "Plugin for disabling the PS Vita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more.",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_LeftToRight.skprx"
 	},
 	{
@@ -44,7 +44,7 @@
 		"filename": "AnalogStickDisable_RightOnly.skprx",
 		"version": "v1.2",
 		"author": "Hack-Usagi",
-		"description": "Plugin for disabling the PS Vita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more.",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_RightOnly.skprx"
 	},
 	{
@@ -52,7 +52,7 @@
 		"filename": "AnalogStickDisable_RightToLeft.skprx",
 		"version": "v1.2",
 		"author": "Yoti",
-		"description": "Plugin for disabling the PS Vita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more.",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_RightToLeft.skprx"
 	},
 	{
@@ -60,7 +60,7 @@
 		"filename": "AnalogStickDisable_SwapLeftAndRight.skprx",
 		"version": "v1.2",
 		"author": "Yoti",
-		"description": "Plugin for disabling the PS Vita's analog stick and more",
+		"description": "Plugin for disabling the PS Vita's analog stick and more.",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_SwapLeftAndRight.skprx"
 	},
 	{
@@ -76,7 +76,7 @@
 		"filename": "BetterTrackPlug.zip",
 		"version": "v1.1",
 		"author": "fmudanyali",
-		"description": "Keeps track of how long you've played your games",
+		"description": "Keeps track of how long you've played your games.",
 		"url": "https://github.com/FMudanyali/BetterTrackPlug/releases/download/1.1/BetterTrackPlug.zip"
 	},
 	{
@@ -84,7 +84,7 @@
 		"filename": "cidSpoof.skprx",
 		"version": "v1.0",
 		"author": "LiEnby",
-		"description": "Spoof CID (ConsoleID) on the PS Vita",
+		"description": "Spoof the CID (ConsoleID) on your PS Vita.",
 		"url": "https://bitbucket.org/lienby/cidspoofer/downloads/cidSpoof.skprx"
 	},
 	{
@@ -92,7 +92,7 @@
 		"filename": "CpuAffinityChanger.skprx",
 		"version": "v2.0",
 		"author": "GrapheneCt",
-		"description": "Changes the CPU affinity mask of the PS Vita's system applications to all user cores, which increases their performance",
+		"description": "Changes the CPU affinity mask of the PS Vita's system applications to all user cores, which increases their performance.",
 		"url": "https://github.com/GrapheneCt/Affinity-Changer/releases/download/v2.0/CpuAffinityChanger.skprx"
 	},
 	{
@@ -108,7 +108,7 @@
 		"filename": "custom_boot_splash.skprx",
 		"version": "v2.0",
 		"author": "teakhanirons",
-		"description": "Custom boot logo plugin that uses normal BMP files",
+		"description": "Custom boot logo plugin that uses normal BMP files.",
 		"url": "https://github.com/teakhanirons/Vita-CustomBootSplashBMP/releases/download/2.0/custom_boot_splash.skprx"
 	},
 	{
@@ -116,7 +116,7 @@
 		"filename": "custom_warning.suprx",
 		"version": "v2",
 		"author": "TheOfficialFloW",
-		"description": "Customize the warning screen on startup",
+		"description": "Customize the warning screen on startup.",
 		"url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/CustomWarning/custom_warning.suprx"
 	},
 	{
@@ -164,7 +164,7 @@
 		"filename": "DolcePolce.suprx",
 		"version": "v1.0",
 		"author": "LiEnby",
-		"description": "Plugin that patches the PS TV Blacklist checks directly from SceShell",
+		"description": "Plugin that patches the PS TV Blacklist checks directly from SceShell.",
 		"url": "https://bitbucket.org/lienby/dolcepolce/downloads/DolcePolce.suprx"
 	},
 	{
@@ -212,7 +212,7 @@
 		"filename": "acid_dumper.skprx",
 		"version": "v1.0",
 		"author": "cuevavirus",
-		"description": "PS Vita Addcont ID dumper",
+		"description": "PS Vita Addcont ID dumper.",
 		"url": "https://forum.devchroma.nl/index.php?PHPSESSID=ce39e24e2c88c0022da48dbd3dfe52b5&action=dlattach;topic=93.0;attach=11"
 	},
 	{
@@ -236,7 +236,7 @@
 		"filename": "forcelang.suprx",
 		"version": "v0.2",
 		"author": "xdanieldzd & theheroGAC",
-		"description": "App language override plugin for taiHEN",
+		"description": "App language override plugin for taiHEN.",
 		"url": "https://github.com/theheroGAC/forcelang/releases/download/v0.2/forcelang.suprx"
 	},
 	{
@@ -260,7 +260,7 @@
 		"filename": "FreePSM-v1.1.suprx",
 		"version": "v1.1",
 		"author": "LiEnby",
-		"description": "Enables Debug PSM InAppPurchases in retail PSM Runtime",
+		"description": "Enables Debug PSM InAppPurchases in retail PSM Runtime.",
 		"url": "https://bitbucket.org/lienby/freepsm/downloads/FreePSM-v1.1.suprx"
 	},
 	{
@@ -324,7 +324,7 @@
 		"filename": "LOLIcon.skprx",
 		"version": "v1.0.1.1 Hotfix A",
 		"author": "dots-tb",
-		"description": "Small Vita shell ran from the kernel that allows for actual overclocking.",
+		"description": "Small PS Vita Shell ran from the kernel that allows for actual overclocking.",
 		"url": "https://github.com/dots-tb/LOLIcon/releases/download/1.0.1.1/LOLIcon.skprx"
 	},
 	{
@@ -332,55 +332,55 @@
 		"filename": "lolita444.skprx",
 		"version": "v0.5",
 		"author": "teakhanirons",
-		"description": "Sets your Vita's clocks to maximum all the time and disables limitations",
-		"url": "https://github.com/teakhanirons/lolita500/releases/download/0.5/lolita444.skprx"
+		"description": "Sets your Vita's clocks to 444MHz constantly and disables limitations.",
+		"url": "https://drive.google.com/uc?export=download&id=1E1SmVgg2xncEnCDIiDS2Zpxgh4DwpD69"
 	},
 	{
 		"name": "lolita500",
 		"filename": "lolita500.skprx",
 		"version": "v1.0",
 		"author": "teakhanirons",
-		"description": "Sets your Vita's clocks to maximum all the time and disables limitations",
-		"url": "https://github.com/teakhanirons/lolita500/releases/download/1.0/lolita500.skprx"
+		"description": "Sets your Vita's clocks to 500MHz constantly and disables limitations.",
+		"url": "https://drive.google.com/uc?export=download&id=1sZlqzmd0oAAqP9ua0fw4WT7theC6K9nH"
 	},
 	{
 		"name": "LowMemMode",
 		"filename": "LowMemMode.suprx",
 		"version": "v1.2",
 		"author": "GrapheneCt",
-		"description": "Plugin for PS Vita that disables memory budget check during app launch in SceShell.",
+		"description": "Plugin for the PS Vita that disables memory budget checks during an app launch in SceShell.",
 		"url": "https://github.com/GrapheneCt/LowMemMode/releases/download/v1.2/LowMemMode.suprx"
 	},
 	{
 		"name": "MAFU-I",
 		"filename": "MAFUinput.skprx",
-		"version": "v1.0",
+		"version": "Version 2.0 Alpha-1",
 		"author": "Rufis01",
-		"description": "Lets you record the input you provide to your PSVita and play it back whenever you need to.",
-		"url": "https://github.com/Rufis01/MAFU-I/releases/download/1.0/MAFUinput.skprx"
+		"description": "Lets you record the input you provide to your PS Vita and play it back whenever you need to.",
+		"url": "https://github.com/Rufis01/MAFU-I/releases/download/v2.0-Alpha.1/MAFUinput.skprx"
 	},
 	{
 		"name": "MAFU-I Non-stop Edition",
 		"filename": "MAFUinput-nonstop.skprx",
 		"version": "v1.0",
 		"author": "Rufis01",
-		"description": "Lets you record the input you provide to your PSVita and play it back whenever you need to.",
+		"description": "[DEPRECATED] Lets you record the input you provide constantly to your PS Vita and play it back whenever you need to.",
 		"url": "https://github.com/Rufis01/MAFU-I/releases/download/1.0-nonstop/MAFUinput-nonstop.skprx"
 	},
 	{
-		"name": "MakePsmGreatAgain",
+		"name": "MakePSMGreatAgain",
 		"filename": "MakePsmGreatAgain-v1.5.suprx",
 		"version": "v1.5",
-		"author": "SilicaAndPina",
-		"description": "Modifications to the PSM Developer applications",
-		"url": "https://bitbucket.org/SilicaAndPina/makepsmgreatagain/downloads/MakePsmGreatAgain-v1.5.suprx"
+		"author": "LiEnby",
+		"description": "Modifications to the PSM Developer applications.",
+		"url": "https://bitbucket.org/lienby/makepsmgreatagain/downloads/MakePsmGreatAgain-v1.5.suprx"
 	},
 	{
 		"name": "MiniVitaTV",
 		"filename": "minivitatv.zip",
-		"version": "beta 5",
+		"version": "beta-5",
 		"author": "TheOfficialFloW",
-		"description": "Connect up to 4 DS3/DS4 to your PSVITA",
+		"description": "Connect up to 4 DS3/DS4 to your PS Vita.",
 		"url": "https://drive.google.com/uc?export=download&id=11CroOFKOh09hJmPL0IiKezVs-BJ-OUE-"
 	},
 	{
@@ -388,7 +388,7 @@
 		"filename": "monaural.skprx",
 		"version": "v1.0.0",
 		"author": "cuevavirus",
-		"description": "Mono audio and channel balance for PS Vita",
+		"description": "Mono audio and channel balance for the PS Vita.",
 		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=57.0;attach=52"
 	},
 	{
@@ -396,39 +396,47 @@
 		"filename": "music_premium.skprx",
 		"version": "v1.0.5",
 		"author": "cuevavirus",
-		"description": "Enable background music play for any game or application.",
+		"description": "Enables background music play for any game or application.",
 		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=60.0;attach=58"
 	},
 	{
-		"name": "netcheck_bypass",
+		"name": "NetCheck Bypass",
 		"filename": "netcheck_bypass.suprx",
 		"version": "v0.1",
 		"author": "yifanlu",
-		"description": "Add this to your ux0:tai/config.txt for any application that requires PSN login to bypass it",
+		"description": "Add this to your ux0:tai/config.txt for any application that requires a PSN login, itll bypass it.",
 		"url": "https://github.com/yifanlu/netcheck_bypass/releases/download/v0.1/netcheck_bypass.suprx"
 	},
 	{
 		"name": "NoAVLS",
 		"filename": "noavls.skprx",
 		"version": "v1",
-		"author": "SilicaAndPina",
-		"description": "NoAVLS is a plugin that will permanantly disable AVLS on AVLS-Forced vitas",
-		"url": "https://bitbucket.org/SilicaAndPina/noavls/downloads/noavls.skprx"
+		"author": "LiEnby",
+		"description": "NoAVLS is a plugin that will permanantly disable AVLS on AVLS-Forced PS Vitas.",
+		"url": "https://bitbucket.org/lienby/noavls/downloads/noavls.skprx"
 	},
 	{
-		"name": "noled",
+		"name": "NoLED",
 		"filename": "noled.skprx",
 		"version": "v1.1",
 		"author": "reprep",
-		"description": "Home button light disabler for PSVITA.",
+		"description": "A home button light disabler for the PS Vita.",
 		"url": "https://github.com/rereprep/noled/releases/download/v1.1/noled.skprx"
+	},
+	{
+		"name": "NoLED: Game Cartridge LED",
+		"filename": "noled.skprx",
+		"version": "v1.2",
+		"author": "reprep",
+		"description": "A home button and game cartridge light disabler for the PS Vita.",
+		"url": "https://github.com/rereprep/noled/releases/download/v1.2/noled.skprx"
 	},
 	{
 		"name": "NoLockScreen (VitaTweaks)",
 		"filename": "nolockscreen.suprx",
 		"version": "v2",
 		"author": "TheOfficialFloW",
-		"description": "Disables lockscreen on PSVita startup/resume",
+		"description": "Disables lockscreen on PSVita startup/resume.",
 		"url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/NoLockScreen/nolockscreen.suprx"
 	},
 	{
@@ -436,7 +444,7 @@
 		"filename": "nonpdrm.skprx",
 		"version": "v1.2",
 		"author": "TheOfficialFloW",
-		"description": "Bypass DRM on PSVITA contents.",
+		"description": "Bypass DRMs on PS Vita contents.",
 		"url": "https://github.com/TheOfficialFloW/NoNpDrm/releases/download/v1.2/nonpdrm.skprx"
 	},
 	{
@@ -444,39 +452,39 @@
 		"filename": "NoNpDrm.v1.4.Unofficial-LMAN.rar",
 		"version": "v1.4",
 		"author": "LMAN",
-		"description": "Bypass DRM on PSVITA contents.",
-		"url": "https://sites.google.com/site/theleecherman/home/NoNpDrm.v1.4.Unofficial-LMAN.rar"
+		"description": "Bypass DRMs on PS Vita contents.",
+		"url": "https://drive.google.com/uc?export=download&id=1fFApLfTzmyJbXm2JGlVQP4UmUrNQ7Dvg"
 	},
 	{
 		"name": "NoPowerLimits",
 		"filename": "NoPowerLimits.skprx",
 		"version": "v1.1",
 		"author": "Electry",
-		"description": "Removes some restrictions with power modes",
-		"url": "https://raw.githubusercontent.com/Electry/NoPowerLimitsVita/master/README.md"
+		"description": "A plugin that removes some restrictions with power modes.",
+		"url": "https://github.com/Electry/NoPowerLimitsVita/releases/download/v1.1/NoPowerLimits.skprx"
 	},
 	{
 		"name": "NoPsmDrm",
 		"filename": "nopsmdrm.skprx",
-		"version": "v1.4",
+		"version": "v1.5",
 		"author": "frangarcj",
-		"description": "Bypass DRM on PSM contents",
-		"url": "https://raw.githubusercontent.com/frangarcj/NoPsmDrm/master/README.md"
+		"description": "Bypass DRMs on PSM contents.",
+		"url": "https://github.com/frangarcj/NoPsmDrm/releases/download/v1.5/nopsmdrm.skprx"
 	},
 	{
 		"name": "NoSharedFb",
 		"filename": "NoSharedFb.suprx",
 		"version": "v1.0",
 		"author": "GrapheneCt",
-		"description": "Allows to bypass shared framebuffer issues after suspend-resume cycle.",
+		"description": "[OUTDATED] Allows you to bypass shared framebuffer issues after a suspend-resume cycle.",
 		"url": "https://github.com/GrapheneCt/NoSharedFb/releases/download/v1.0/NoSharedFb.suprx"
 	},
 	{
-		"name": "nosleep",
+		"name": "NoSleep",
 		"filename": "nosleep.skprx",
 		"version": "v1.1",
 		"author": "NamelessGhoul0",
-		"description": "Disables PSVITA auto-sleep feature.",
+		"description": "Disables the PS Vita's auto-sleep feature.",
 		"url": "https://github.com/NamelessGhoul0/nosleep/releases/download/1.1/nosleep.skprx"
 	},
 	{
@@ -484,7 +492,7 @@
 		"filename": "notrophymsg.suprx",
 		"version": "v1",
 		"author": "TheOfficialFloW",
-		"description": "Disabled trophy message on games bootup",
+		"description": "Disables trophy messages on games startup.",
 		"url": "https://github.com/TheOfficialFloW/VitaTweaks/releases/download/NoTrophyMsg/notrophymsg.suprx"
 	},
 	{
@@ -492,7 +500,7 @@
 		"filename": "oclockvita.suprx",
 		"version": "v1.2.1",
 		"author": "frangarcj",
-		"description": "Simple overclock plugin for taiHen.",
+		"description": "Simple overclock plugin for taiHEN.",
 		"url": "https://github.com/frangarcj/oclockvita/releases/download/1.2.1/oclockvita.suprx"
 	},
 	{
@@ -500,11 +508,11 @@
 		"filename": "oclockvitaminimal.suprx",
 		"version": "v1.0",
 		"author": "rereprep & frangarcj",
-		"description": "Automatically increase PSVITA clock.",
+		"description": "Automatically increase the PS Vita's clocks.",
 		"url": "https://github.com/rereprep/oclockvitaminimal/releases/download/v1.0/oclockvitaminimal.suprx"
 	},
 	{
-		"name": "pngshot",
+		"name": "PNGShot",
 		"filename": "pngshot.suprx",
 		"version": "v1.3",
 		"author": "xyzz",
@@ -515,40 +523,56 @@
 		"name": "PSMPatch",
 		"filename": "PSMPatch1.1.suprx",
 		"version": "v1.1",
-		"author": "SilicaAndPina",
-		"description": "Allows you to modify PSM Games, and also can be used to load PSM Homebrew.",
-		"url": "https://bitbucket.org/SilicaAndPina/psmpatch/downloads/PSMPatch1.1.suprx"
+		"author": "LiEnby",
+		"description": "Allows you to modify PSM Games (can also can be used to load PSM Homebrews).",
+		"url": "https://bitbucket.org/lienby/psmpatch/downloads/PSMPatch1.1.suprx"
 	},
 	{
 		"name": "PSOneScrot",
 		"filename": "psonescrot.skprx",
-		"version": "v0.1",
+		"version": "v1.0",
 		"author": "cuevavirus",
 		"description": "Take proper PNG screenshots for PS1 games.",
-		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=106.0;attach=21"
+		"url": "https://drive.google.com/uc?export=download&id=1C-hdpzWuUcMr_RlqhYMjzVREwqsFu7UG"
 	},
 	{
 		"name": "PSV-VSH Menu",
 		"filename": "vsh.zip",
 		"version": "v3.5",
 		"author": "joel16",
-		"description": "Multifunction plugin for PSVITA.",
+		"description": "Multifunction plugin for the PS Vita.",
 		"url": "https://dl.coolatoms.org/vitadb/vsh.zip"
 	},
 	{
-		"name": "PSVshell",
+		"name": "PSVShell",
 		"filename": "PSVshell.skprx",
-		"version": "v1.1",
+		"version": "v1.2-beta",
 		"author": "Electry",
-		"description": "Overclocking utility for PSVITA/PSTV.",
-		"url": "https://github.com/Electry/PSVshell/releases/download/v1.1/PSVshell.skprx"
+		"description": "Overclocking utility for the PS Vita/PS TV.",
+		"url": "https://github.com/Electry/PSVshell/releases/download/v1.2beta/PSVshell.skprx"
+	},
+	{
+		"name": "PSVShell Plus (Kernel)",
+		"filename": "PSVshellPlus_Kernel.skprx",
+		"version": "v1.4",
+		"author": "GrapheneCt",
+		"description": "Advanced OC & Info plugin for the PS Vita.",
+		"url": "https://github.com/GrapheneCt/PSVshellPlus/releases/download/v1.4/PSVshellPlus_Kernel.skprx"
+	},
+	{
+		"name": "PSVShell Plus (Shell)",
+		"filename": "PSVshellPlus_Shell.suprx",
+		"version": "v1.4",
+		"author": "GrapheneCt",
+		"description": "Advanced OC & Info plugin for the PS Vita.",
+		"url": "https://github.com/GrapheneCt/PSVshellPlus/releases/download/v1.4/PSVshellPlus_Shell.suprx"
 	},
 	{
 		"name": "QAscreenshot",
 		"filename": "QAscreenshot.suprx",
 		"version": "v1.1",
 		"author": "GrapheneCt",
-		"description": "High quality screenshot plugin for PS Vita.",
+		"description": "A high quality screenshot plugin for the PS Vita.",
 		"url": "https://github.com/GrapheneCt/QAscreenshot/releases/download/v1.1/QAscreenshot.suprx"
 	},
 	{
@@ -558,6 +582,14 @@
 		"author": "cuevavirus",
 		"description": "Quick Menu Plus merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features.",
 		"url": "https://drive.google.com/uc?export=download&id=12SERles3auCTYkCJplWSlinzshMOpVbb"
+	},
+	{
+		"name": "Quick Menu Plus Unofficial",
+		"filename": "quickmenuplus.suprx",
+		"version": "v3.0.0",
+		"author": "GrayJack & cuevavirus",
+		"description": "Quick Menu Plus merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features.",
+		"url": "https://github.com/VitaArchive/QuickMenuPlus/releases/download/v3.0.0/quickmenuplus.suprx"
 	},
 	{
 		"name": "Quick Power",
