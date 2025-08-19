@@ -579,7 +579,7 @@
 		"name": "Quick Menu Plus",
 		"filename": "quickmenuplus.suprx",
 		"version": "v2.0.0",
-		"author": "cuevavirus",
+		"author": "cuevavirus & Team CBPS",
 		"description": "Quick Menu Plus merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features.",
 		"url": "https://drive.google.com/uc?export=download&id=12SERles3auCTYkCJplWSlinzshMOpVbb"
 	},
@@ -587,7 +587,7 @@
 		"name": "Quick Menu Plus Unofficial",
 		"filename": "quickmenuplus.suprx",
 		"version": "v3.0.0",
-		"author": "GrayJack & cuevavirus",
+		"author": "GrayJack & cuevavirus & Team CBPS",
 		"description": "Quick Menu Plus merges Quick Power, Quick Volume, and Rapidmenu, as well as adding new features.",
 		"url": "https://github.com/VitaArchive/QuickMenuPlus/releases/download/v3.0.0/quickmenuplus.suprx"
 	},
@@ -596,7 +596,7 @@
 		"filename": "quick_power.suprx",
 		"version": "v1.1.0",
 		"author": "cuevavirus",
-		"description": "Power off, reboot, and suspend from the quick menu for PS Vita/PSTV",
+		"description": "Power off, reboot, and suspend from the quick menu of your PS Vita/PS TV.",
 		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=78.0;attach=55"
 	},
 	{
@@ -604,7 +604,7 @@
 		"filename": "quick_volume.suprx",
 		"version": "v1.2.1",
 		"author": "cuevavirus",
-		"description": "Volume slider in the quick menu for the PS Vita",
+		"description": "Volume slider in the quick menu of your PS Vita.",
 		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=66.0;attach=56"
 	},
 	{
@@ -612,21 +612,21 @@
 		"filename": "quietshot.suprx",
 		"version": "v1.0",
 		"author": "cuevavirus",
-		"description": "Shutter sound silencer plugin for PS Vita.",
+		"description": "Shutter sound silencer plugin for the PS Vita.",
 		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=101.0;attach=57"
 	},
 	{
 		"name": "reF00D",
 		"filename": "reF00D.skprx",
-		"version": "v1.0",
+		"version": "v1.1",
 		"author": "FAPS Team",
-		"description": "A vita plugin to run programs that do not get decrypted properly.",
-		"url": "https://github.com/dots-tb/reF00D/releases/download/1.0/reF00D.skprx"
+		"description": "A PS Vita plugin to run programs that do not get decrypted properly.",
+		"url": "https://github.com/dots-tb/reF00D/releases/download/1.1/reF00D.skprx"
 	},
 	{
 		"name": "remaPSV2",
 		"filename": "remaPSV2.zip",
-		"version": "v2.0.1",
+		"version": "v2.0.2",
 		"author": "Mer1e & Rinnegatamante & S1ngyy",
 		"description": "Remap plugin for PSVITA/PSTV",
 		"url": "https://dl.coolatoms.org/vitadb/remaPSV2.zip"
