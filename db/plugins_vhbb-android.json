@@ -628,7 +628,7 @@
 		"filename": "remaPSV2.zip",
 		"version": "v2.0.2",
 		"author": "Mer1e & Rinnegatamante & S1ngyy",
-		"description": "Remap plugin for PSVITA/PSTV",
+		"description": "A remap plugin for the PS Vita/PS TV.",
 		"url": "https://dl.coolatoms.org/vitadb/remaPSV2.zip"
 	},
 	{
@@ -636,7 +636,7 @@
 		"filename": "repatch.skprx",
 		"version": "v3.0",
 		"author": "dots-tb",
-		"description": "Kernel Plugin to make ux0:rePatch allow the modding of encrypted games",
+		"description": "Kernel Plugin to make ux0:rePatch allow the modding of encrypted games.",
 		"url": "https://github.com/dots-tb/rePatch-reDux0/releases/download/3.0/repatch.skprx"
 	},
 	{
@@ -644,7 +644,7 @@
 		"filename": "reRescaler.zip",
 		"version": "v.0.1 BETA",
 		"author": "Rinnegatamante",
-		"description": "Rescaler replacement for PSVITA.",
+		"description": "Rescaler replacement for the PS Vita.",
 		"url": "https://dl.coolatoms.org/vitadb/reRescaler.zip"
 	},
 	{
@@ -652,59 +652,59 @@
 		"filename": "reScreeny.suprx",
 		"version": "v1.2",
 		"author": "dots_tb",
-		"description": "Vita screenshots will be saved into a folder named after the game.",
+		"description": "PS Vita screenshots will be saved into a folder named after the game.",
 		"url": "https://github.com/dots-tb/reScreeny/releases/download/1.2/reScreeny.suprx"
 	},
 	{
 		"name": "reSkype",
 		"filename": "reSkype.suprx",
 		"version": "v1.0",
-		"author": "SilicaAndPina",
-		"description": "Just a simple plugin to enable the Skype app on 3.65+",
-		"url": "https://bitbucket.org/SilicaAndPina/reskype/downloads/reSkype.suprx"
+		"author": "LiEnby",
+		"description": " (Skype has shut down on the 5th of May 2025) Just a simple plugin to bring back the Skype app on 3.65+.",
+		"url": "https://bitbucket.org/lienby/reskype/downloads/reSkype.suprx"
 	},
 	{
 		"name": "reVita",
 		"filename": "reVita.zip",
-		"version": "v1.0.7",
+		"version": "v1.0.8",
 		"author": "Mer1e",
-		"description": "Remap controls and apply several actions controls related.",
-		"url": "https://drive.google.com/uc?export=download&id=1BmxR3EDcqMG5Gbs2ou0hG2FQecilDiYh"
+		"description": "Remap controls and apply several actions controls-related.",
+		"url": "https://drive.google.com/uc?export=download&id=1odTBlrLOj9vKQ48dHEn1d6ztfl1sxPfA"
 	},
 	{
 		"name": "ScoreHax",
 		"filename": "ScoreHax.suprx",
 		"version": "v1.0",
-		"author": "SilicaAndPina",
+		"author": "LiEnby",
 		"description": "Instant pro at any game!",
-		"url": "https://github.com/KuromeSan/ScoreHax/releases/download/v1.0/ScoreHax.suprx"
+		"url": "https://github.com/LiEnby/ScoreHax/releases/download/v1.0/ScoreHax.suprx"
 	},
 	{
 		"name": "Sharpscale",
 		"filename": "sharpscale.zip",
-		"version": "v1.3.0",
+		"version": "v1.4.0",
 		"author": "cuevavirus",
-		"description": "PSTV and Vita plugin that changes the display scaling method to provide a cleaner and sharper image.",
-		"url": "https://drive.google.com/uc?export=download&id=1nNfvSNS-CuqM6MwRxuNYv-JzDDNX72J8"
+		"description": "PS TV/PS Vita plugin that changes the display scaling method to provide a cleaner and sharper image.",
+		"url": "https://drive.google.com/uc?export=download&id=1aLrbLRz8U0IwhQmmwImSKpgd2Ta3htSW"
 	},
 	{
-		"name": "Shellbat",
+		"name": "ShellBat",
 		"filename": "shellbat.suprx",
 		"version": "r10",
 		"author": "nowrep",
-		"description": "Shows battery percentage on Livearea statusbar.",
+		"description": "Shows your battery percentage on the Livearea statusbar.",
 		"url": "https://github.com/nowrep/vita-shellbat/releases/download/r10/shellbat.suprx"
 	},
 	{
-		"name": "Shellbat Mod",
+		"name": "ShellBat Mod",
 		"filename": "shellbat.suprx",
 		"version": "r10b",
 		"author": "devnoname120",
-		"description": "Shows battery percentage on Livearea statusbar.",
+		"description": "Shows your battery percentage on the Livearea statusbar.",
 		"url": "https://github.com/devnoname120/vita-shellbat/releases/download/r10b/shellbat.suprx"
 	},
 	{
-		"name": "Shellsecbat",
+		"name": "ShellSecBat",
 		"filename": "shellsecbat.suprx",
 		"version": "v10",
 		"author": "OperationNT414C",
@@ -716,7 +716,7 @@
 		"filename": "ShowInfo.suprx",
 		"version": "v0.6",
 		"author": "Yoti",
-		"description": "Param.sfo parser for PSVITA.",
+		"description": "Param.sfo parser for the PS Vita.",
 		"url": "https://github.com/Yoti/psv_showinfo/releases/download/v0.6-full/ShowInfo.suprx"
 	},
 	{
@@ -724,15 +724,15 @@
 		"filename": "ShowInfoLite.suprx",
 		"version": "v0.2",
 		"author": "Yoti",
-		"description": "Shows some info for the running app.",
+		"description": "Shows some info of the currently running app.",
 		"url": "https://github.com/Yoti/psv_showinfo/releases/download/v0.2-lite/ShowInfoLite.suprx"
 	},
 	{
-		"name": "Staybright",
+		"name": "StayBright",
 		"filename": "staybright.skprx",
 		"version": "v1.0",
 		"author": "cuevavirus",
-		"description": "Disable auto-dimming on the PS Vita.",
+		"description": "Disables auto-dimming on the PS Vita.",
 		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=102.0;attach=14"
 	},
 	{
@@ -740,7 +740,7 @@
 		"filename": "TrImpose.suprx",
 		"version": "v1.0",
 		"author": "GrapheneCt",
-		"description": "Makes impose menu and power off menu transparent.",
+		"description": "Makes the impose menu and power off menu transparent.",
 		"url": "https://github.com/GrapheneCt/TransparentImpose/releases/download/v1.0/TrImpose.suprx"
 	},
 	{
@@ -755,24 +755,32 @@
 		"name": "TropHAX",
 		"filename": "trophax2.0.suprx",
 		"version": "v2.0",
-		"author": "SilicaAndPina",
-		"description": "Trophy unlocker",
-		"url": "https://bitbucket.org/SilicaAndPina/trophax/downloads/trophax2.0.suprx"
+		"author": "LiEnby",
+		"description": "PSN trophy unlocker.",
+		"url": "https://bitbucket.org/lienby/trophax/downloads/trophax2.0.suprx"
 	},
 	{
 		"name": "TrophyShot",
-		"filename": "TrophyShot.zip",
-		"version": "v1.0",
-		"author": "TEAM CBPS",
-		"description": "A PSVita plugin that takes a screenshot when you get a trophy",
-		"url": "https://github.com/FMudanyali/TrophyShot/releases/download/v1.0/TrophyShot.zip"
+		"filename": "TrophyShot.suprx",
+		"version": "v1.1.1",
+		"author": "Team CBPS",
+		"description": "A PS Vita plugin that takes a screenshot everytime you obtain a trophy.",
+		"url": "https://github.com/FMudanyali/TrophyShot/releases/download/1.1.1/TrophyShot.suprx"
 	},
 	{
-		"name": "TurboPad",
+		"name": "TurboPad IOPlus",
+		"filename": "TurboPad.zip",
+		"version": "v0.3-iop",
+		"author": "Yoti",
+		"description": "RapidFire plugin for the PS Vita/PS TV.",
+		"url": "https://drive.google.com/uc?export=download&id=10nK7qddLOrVRcPV1wcSF_QCh6P1CPNwj"
+	},
+	{
+		"name": "TurboPad KUIO",
 		"filename": "TurboPad.zip",
 		"version": "v0.3",
 		"author": "Rinnegatamante",
-		"description": "RapidFire plugin for PSVITA/PSTV.",
+		"description": "RapidFire plugin for the PS Vita/PS TV.",
 		"url": "https://dl.coolatoms.org/vitadb/plugs/TurboPad.zip"
 	},
 	{
@@ -780,7 +788,7 @@
 		"filename": "udcd_uvc.skprx",
 		"version": "v1.7",
 		"author": "xerpi",
-		"description": "PSVita UDCD USB Video Class plugin",
+		"description": "PSVita UDCD USB Video Class plugin.",
 		"url": "https://github.com/xerpi/vita-udcd-uvc/releases/download/1.7/udcd_uvc.skprx"
 	},
 	{
@@ -788,7 +796,7 @@
 		"filename": "udcd_uvc_lcd_off.skprx",
 		"version": "v1.7",
 		"author": "xerpi",
-		"description": "PSVita UDCD USB Video Class plugin",
+		"description": "PSVita UDCD USB Video Class plugin.",
 		"url": "https://github.com/xerpi/vita-udcd-uvc/releases/download/1.7/udcd_uvc_lcd_off.skprx"
 	},
 	{
@@ -796,7 +804,7 @@
 		"filename": "udcd_uvc_oled_off.skprx",
 		"version": "v1.7",
 		"author": "xerpi",
-		"description": "PSVita UDCD USB Video Class plugin",
+		"description": "PSVita UDCD USB Video Class plugin.",
 		"url": "https://github.com/xerpi/vita-udcd-uvc/releases/download/1.7/udcd_uvc_oled_off.skprx"
 	},
 	{
@@ -808,11 +816,11 @@
 		"url": "https://github.com/yifanlu/usbmc/releases/download/v6/usbmc.skprx"
 	},
 	{
-		"name": "Vflux",
+		"name": "VFlux",
 		"filename": "vflux.suprx",
 		"version": "v0.5",
 		"author": "Applelo",
-		"description": "Screen filter plugin for PS Vita.",
+		"description": "Screen filter plugin for the PS Vita.",
 		"url": "https://github.com/Applelo/vFlux/releases/download/0.5/vFlux.suprx"
 	},
 	{
@@ -827,16 +835,16 @@
 		"name": "VideoDebug",
 		"filename": "videoDebug.skprx",
 		"version": "v1.0",
-		"author": "SilicaAndPina",
-		"description": "Puts video app into debug mode",
-		"url": "https://bitbucket.org/SilicaAndPina/videodebug/downloads/videoDebug.skprx"
+		"author": "LiEnby",
+		"description": "Puts the video app into debug mode.",
+		"url": "https://bitbucket.org/lienby/videodebug/downloads/videoDebug.skprx"
 	},
 	{
-		"name": "viimote",
+		"name": "Viimote",
 		"filename": "viimote_1.2.zip",
 		"version": "v1.2",
 		"author": "xerpi",
-		"description": "Use a Wiimote as PSVITA controller.",
+		"description": "Use a Wiimote as a PS Vita controller.",
 		"url": "https://github.com/xerpi/viimote/files/1611048/viimote_1.2.zip"
 	},
 	{
@@ -852,47 +860,47 @@
 		"filename": "batteryPercent.suprx",
 		"version": "v1.4",
 		"author": "joel16",
-		"description": "A simple plugin that displays the current battery percentage on your PS VITA",
+		"description": "A simple plugin that displays the current battery percentage on your PS Vita.",
 		"url": "https://github.com/joel16/VITABattery/releases/download/1.4/batteryPercent.suprx"
 	},
 	{
 		"name": "VITABatteryPlus",
 		"filename": "vitabatteryplus.suprx",
-		"version": "v1.5",
+		"version": "v1.8",
 		"author": "Electric1447 & joel16",
-		"description": "A simple plugin that displays the current battery percentage on your PS VITA",
-		"url": "https://github.com/Electric1447/VITABatteryPlus/releases/download/1.5/vitabatteryplus.suprx"
+		"description": "A simple plugin that displays the current battery percentage on your PS Vita.",
+		"url": "https://github.com/Electric1447/VITABatteryPlus/releases/download/1.8/vitabatteryplus.suprx"
 	},
 	{
 		"name": "Vita-BootSound",
 		"filename": "bootsound.suprx",
 		"version": "v1.0",
 		"author": "teakhanirons",
-		"description": "Play a WAV file as a custom boot jingle on PS Vita / PS TV at boot.",
+		"description": "Play a WAV file as a custom boot jingle on your PS Vita/PS TV at boot.",
 		"url": "https://github.com/teakhanirons/Vita-BootSound/releases/download/1.0/bootsound.suprx"
 	},
 	{
 		"name": "Vitabright",
-		"filename": "vitabright-1.1.zip",
-		"version": "v1.1",
+		"filename": "vitabright-2.0.zip",
+		"version": "v2.0",
 		"author": "devnoname120",
-		"description": "Plugin to set PSVITA brightness.",
-		"url": "https://github.com/devnoname120/vitabright/releases/download/1.1/vitabright-1.1.zip"
+		"description": "Plugin to set your PS Vita's brightness.",
+		"url": "https://github.com/devnoname120/vitabright/releases/download/2.0/vitabright-2.0.zip"
 	},
 	{
-		"name": "Vitacheat FOR 3.60",
+		"name": "Vitacheat For 3.60",
 		"filename": "FINALCHEAT-PSVITACHEAT-V360-Z04BETA.zip",
-		"version": "Z04 BETA",
+		"version": "Z04-beta",
 		"author": "FinalCheat",
-		"description": "FinalCheat / VitaCheat Database",
+		"description": "FinalCheat/VitaCheat Database.",
 		"url": "https://github.com/r0ah/vitacheat/raw/master/plugin/v360-z04beta/FINALCHEAT-PSVITACHEAT-V360-Z04BETA.zip"
 	},
 	{
-		"name": "Vitacheat FOR 3.65+",
+		"name": "Vitacheat For 3.65+",
 		"filename": "FINALCHEAT-PSVITACHEAT-V365-Z06BETA.zip",
-		"version": "Z06 BETA",
+		"version": "Z06-beta",
 		"author": "FinalCheat",
-		"description": "FinalCheat / VitaCheat Database",
+		"description": "FinalCheat/VitaCheat Database.",
 		"url": "https://github.com/r0ah/vitacheat/raw/master/plugin/v365-z06beta/FINALCHEAT-PSVITACHEAT-V365-Z06BETA.zip"
 	},
 	{
@@ -900,7 +908,7 @@
 		"filename": "vitacompanion.suprx",
 		"version": "v1.00",
 		"author": "devnoname120",
-		"description": "Development helper plugin.",
+		"description": "Development helper.",
 		"url": "https://github.com/devnoname120/vitacompanion/releases/download/1.00/vitacompanion.suprx"
 	},
 	{
@@ -908,15 +916,15 @@
 		"filename": "VitaGrafix.suprx",
 		"version": "v5.0.2",
 		"author": "Electry",
-		"description": "Change games resolution/FPS cap.",
+		"description": "Change your games' resolution/FPS cap.",
 		"url": "https://github.com/Electry/VitaGrafix/releases/download/v5.0.2/VitaGrafix.suprx"
 	},
 	{
-		"name": "vita-macspoofer",
+		"name": "Vita MacSpoofer",
 		"filename": "macspoofer.suprx",
-		"version": "N/A",
+		"version": "v1.0",
 		"author": "Freakler",
-		"description": "Hide MAC address in Settings app.",
+		"description": "Hide your MAC address in the Settings app.",
 		"url": "https://github.com/Freakler/vita-macspoofer/releases/download/1.0/macspoofer.suprx"
 	},
 	{
@@ -924,47 +932,47 @@
 		"filename": "VitaPresence.skprx",
 		"version": "v1.0.0",
 		"author": "Electry",
-		"description": "Change games resolution/FPS cap.",
+		"description": "(A PC app is required) Change your Discord rich presence to your currently playing PS Vita game!",
 		"url": "https://github.com/Electry/VitaPresence/releases/download/v1.0.0/VitaPresence.skprx"
 	},
 	{
-		"name": "vita-ps4linkcontrols",
+		"name": "Vita PS4LinkControls",
 		"filename": "ps4linkcontrols.suprx",
 		"version": "r7",
 		"author": "nowrep",
-		"description": "Change keymap for Remote Play app.",
+		"description": "Plugin that allows you to force your preferred Remote Play button configuration.",
 		"url": "https://github.com/nowrep/vita-ps4linkcontrols/releases/download/r7/ps4linkcontrols.suprx"
 	},
 	{
-		"name": "vitastick",
+		"name": "VitaStick",
 		"filename": "vitastick.alpha.0.4.1.zip",
-		"version": "v0.4.1 alpha",
+		"version": "v0.4.1-alpha",
 		"author": "xerpi",
-		"description": "Use the PSVITA as an USB PC controller.",
+		"description": "Use your PS Vita as a USB PC controller.",
 		"url": "https://github.com/xerpi/vitastick/files/2227073/vitastick.alpha.0.4.1.zip"
 	},
 	{
-		"name": "Virtual mass storage",
+		"name": "Virtual Mass Storage",
 		"filename": "vmass.skprx",
-		"version": "v1.00",
+		"version": "v1.40",
 		"author": "Princess of Sleeping",
-		"description": "A plugin to create a ram disk to mount at uma0.",
-		"url": "https://github.com/Princess-of-Sleeping/vmass/releases/download/v1.00/vmass.skprx"
+		"description": "A plugin that creates a RAM disk to mount to uma0.",
+		"url": "https://github.com/Princess-of-Sleeping/vmass/releases/download/v1.40/vmass.skprx"
 	},
 	{
 		"name": "VolLightbarCtrlWithDS4",
 		"filename": "VolLightbarCtrlWithDS4.skprx",
-		"version": "v1.2",
+		"version": "v1.3",
 		"author": "CallmeBK",
-		"description": "Change DS4 lightbar color based on battery level.",
-		"url": "https://github.com/CallmeBK/VolLightbarCtrlWithDS4/releases/download/v1.2/VolLightbarCtrlWithDS4.skprx"
+		"description": "Change your DS4's lightbar color based on the battery level.",
+		"url": "https://github.com/CallmeBK/VolLightbarCtrlWithDS4/releases/download/v1.3/VolLightbarCtrlWithDS4.skprx"
 	},
 	{
-		"name": "volume_profile",
+		"name": "Volume Profile",
 		"filename": "jav.suprx",
 		"version": "v2.1.0",
 		"author": "cuevavirus",
-		"description": "Plugin for automatic volume level switching",
+		"description": "Plugin for automatic volume level switching.",
 		"url": "https://forum.devchroma.nl/index.php?action=dlattach;topic=46.0;attach=54"
 	},
 	{
@@ -972,7 +980,7 @@
 		"filename": "watermarkdisabler.zip",
 		"version": "v1.0",
 		"author": "reprep",
-		"description": "Plugin for disabling watermark some games/apps apply to screenshots on Vita.",
+		"description": "Plugin to disable watermarks that some games/apps apply to screenshots on PS Vita.",
 		"url": "https://wololo.net/talk/download/file.php?id=4265"
 	},
 	{
@@ -980,7 +988,7 @@
 		"filename": "WDNF.suprx",
 		"version": "v1.0",
 		"author": "EchoDev & Rinnegatamante",
-		"description": "Disable front touchscreen.",
+		"description": "Disable your PS Vita's front touchscreen.",
 		"url": "https://dl.coolatoms.org/vitadb/WDNF.suprx"
 	}
 ]
