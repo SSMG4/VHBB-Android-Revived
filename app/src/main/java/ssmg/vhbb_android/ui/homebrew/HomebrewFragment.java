@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.ui.homebrew;
+package ssmg.vhbb_android.ui.homebrew;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
@@ -27,8 +27,8 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import ssmga.vhbb_android.Constants.VitaDB;
-import ssmga.vhbb_android.R;
+import ssmg.vhbb_android.Constants.VitaDB;
+import ssmg.vhbb_android.R;
 
 public class HomebrewFragment extends Fragment {
 
