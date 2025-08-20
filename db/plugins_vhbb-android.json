@@ -40,6 +40,14 @@
 		"url": "https://drive.google.com/uc?export=download&id=1xZJY0xzcIzxI1u1ykG29vTnwC6nwsOb-"
 	},
 	{
+		"name": "Adrenaline USB Enabler",
+		"filename": "adrenaline_usb_enabler.suprx",
+		"version": "v0.1",
+		"author": "isage",
+		"description": "Plugin to enable USB pairing between Adrenaline and PS2/PS3.",
+		"url": "https://github.com/isage/adrenaline_usb_enabler/releases/download/v0.1/adrenaline_usb_enabler.suprx"
+	},
+	{
 		"name": "AnalogsEnhancer",
 		"filename": "AnalogsEnhancerUr0.zip",
 		"version": "v1.1-ur0",
@@ -94,6 +102,22 @@
 		"author": "Yoti",
 		"description": "Plugin for disabling the PS Vita's analog stick and more.",
 		"url": "https://github.com/Hack-Usagi/AnalogStickDisable/releases/download/Ver1.2/AnalogStickDisable_SwapLeftAndRight.skprx"
+	},
+	{
+		"name": "ARK-4's ef2uma",
+		"filename": "ef2uma.suprx",
+		"version": "v1.0",
+		"author": "ARK-4",
+		"description": "Enables the PSP Go's ef0 MEmory and redirects it to the PS Vita's uma0:pspemu/ while still keeping ms0 in ux0:pspemu/, allowing you to dual-boot.",
+		"url": "https://drive.google.com/uc?export=download&id=1WtBA3jLy5b8KyvGcU_EgMPxGjwwTEWjw"
+	},
+	{
+		"name": "ARK-4's ef2xmc",
+		"filename": "ef2xmc.suprx",
+		"version": "v1.0",
+		"author": "ARK-4",
+		"description": "Enables the PSP Go's ef0 MEmory and redirects it to the PS Vita's xmc0:pspemu/ while still keeping ms0 in ux0:pspemu/, allowing you to dual-boot.",
+		"url": "https://drive.google.com/uc?export=download&id=1lWiWsN-Zhkfc71uR5ci2ZLuhTmaSxKd5"
 	},
 	{
 		"name": "Autoboot (only for 3.60/3.65)",
