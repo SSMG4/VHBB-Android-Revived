@@ -1,6 +1,6 @@
-package ssmga.vhbb_android.ui.plugins;
+package ssmg.vhbb_android.ui.plugins;
 
-import ssmga.vhbb_android.BaseItem;
+import ssmg.vhbb_android.BaseItem;
 
 /**
  * Plugins item
