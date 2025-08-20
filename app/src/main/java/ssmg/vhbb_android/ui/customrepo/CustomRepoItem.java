@@ -1,6 +1,6 @@
-package ssmga.vhbb_android.ui.customrepo;
+package ssmg.vhbb_android.ui.customrepo;
 
-import ssmga.vhbb_android.BaseItem;
+import ssmg.vhbb_android.BaseItem;
 
 /**
  * Custom Repository item
