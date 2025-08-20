@@ -1,4 +1,4 @@
-package ssmga.vhbb_android;
+package ssmg.vhbb_android;
 
 import org.junit.Test;
 
