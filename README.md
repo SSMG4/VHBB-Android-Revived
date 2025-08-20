@@ -1,7 +1,7 @@
 # VHBB-Android Revived
 
 - Latest Update: 2025.08.18
-- Latest Version: stable-1
+- Latest Version: stable-1_01
 
 Vita Homebrew Browser client for Android
 
