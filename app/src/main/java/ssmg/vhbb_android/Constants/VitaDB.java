@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.Constants;
+package ssmg.vhbb_android.Constants;
 
 /**
  * Constants relating to VitaDB
@@ -36,7 +36,7 @@ public class VitaDB {
 
 
     //region URL
-    public static final String PARENT_URL               = "https://www.rinnegatamante.eu/vitadb/#/";
+    public static final String PARENT_URL               = "https://www.rinnegatamante.eu/vitadb";
     public static final String HOMEBREW_LIST_JSON_URL   = String.format("%s/list_hbs_json.php", PARENT_URL);
     public static final String PLUGIN_LIST_JSON_URL     = String.format("%s/list_plugins_json.php", PARENT_URL);
     public static final String INFO_PARENT_URL          = String.format("%s/#/info/", PARENT_URL);
