@@ -1276,7 +1276,7 @@
 		"filename": "vshPatch.skprx",
 		"version": "v1.0",
 		"author": "LiEnby",
-		"description": "Allows you to patch "vs0" by writing files to ux0:/vshPatch via a FIOS2 Overlay, like rePatch but for system applications.",
+		"description": "Allows you to patch vs0 by writing files to ux0:/vshPatch via a FIOS2 Overlay, like rePatch but for system applications.",
 		"url": "https://github.com/LiEnby/vshPatch/releases/download/v1.0/vshPatch.skprx"
 	},
 	{
