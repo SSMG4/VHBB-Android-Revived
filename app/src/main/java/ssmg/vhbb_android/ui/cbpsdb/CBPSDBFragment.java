@@ -129,7 +129,17 @@ public class CBPSDBFragment extends Fragment {
             if (isVisible) {
                 mCBPSDBList.add(new CBPSDBItem(item[CBPSDB.CVS_ID], item[CBPSDB.CVS_TITLE], item[CBPSDB.CVS_CREDITS], item[CBPSDB.CVS_ICON0], item[CBPSDB.CVS_URL], item[CBPSDB.CVS_OPTIONS], item[CBPSDB.CVS_TYPE]));
             } else if (isData) {
-                dataList.add(new String[] {item[CBPSDB.CVS_TITLE].substring(0, item[CBPSDB.CVS_TITLE].length() - 11), item[CBPSDB.CVS_URL]});
+                if (item[CBPSDB.CVS_TITLE].length() > 11) {
+                    dataList.add(new String[] {
+                        item[CBPSDB.CVS_TITLE].substring(0, item[CBPSDB.CVS_TITLE].length() - 11),
+                        item[CBPSDB.CVS_URL]
+                    });
+                } else {
+                    dataList.add(new String[] {
+                        item[CBPSDB.CVS_TITLE],
+                        item[CBPSDB.CVS_URL]
+                    });
+                }
             }
         }
 
