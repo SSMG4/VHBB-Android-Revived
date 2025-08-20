@@ -5,12 +5,12 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "ssmga.vhbb_android"
+        applicationId "ssmg.vhbb_android"
         minSdkVersion 21
         //noinspection OldTargetApi
         targetSdkVersion 30
-        versionCode 14
-        versionName 'beta-12'
+        versionCode 15
+        versionName 'stable-2'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         resConfigs "en"
