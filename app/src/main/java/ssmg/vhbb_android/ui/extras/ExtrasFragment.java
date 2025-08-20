@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.ui.extras;
+package ssmg.vhbb_android.ui.extras;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -25,8 +25,8 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import ssmga.vhbb_android.Constants.VHBBAndroid;
-import ssmga.vhbb_android.R;
+import ssmg.vhbb_android.Constants.VHBBAndroid;
+import ssmg.vhbb_android.R;
 
 public class ExtrasFragment extends Fragment {
 
