@@ -1,6 +1,6 @@
-package ssmga.vhbb_android.ui.extras;
+package ssmg.vhbb_android.ui.extras;
 
-import ssmga.vhbb_android.BaseItem;
+import ssmg.vhbb_android.BaseItem;
 
 /**
  * Extras item
