@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.Utils;
+package ssmg.vhbb_android.Utils;
 
 import android.Manifest;
 import android.app.Activity;
@@ -6,7 +6,7 @@ import android.app.Activity;
 import androidx.appcompat.app.AlertDialog;
 import androidx.core.app.ActivityCompat;
 
-import ssmga.vhbb_android.R;
+import ssmg.vhbb_android.R;
 
 /**
  * Permission Utilities
