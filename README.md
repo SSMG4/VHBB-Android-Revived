@@ -31,7 +31,7 @@ A PS Vita Homebrew Browser client for Android with great potential
 
 ### Building
 >[!WARNING]
->This tutorial is assuming you have the same requirements and environment as myself, SSMG4, which includes:
+>This tutorial assumes you have the same requirements and environment as myself, SSMG4, which includes:
 >- Eclispe Adotium's JDK 17 (Or ideally any JDK 17 environments)
 >- Gradle 7.6.4 (automatically installed by Gradlew.bat or Android Studio)
 >- 4-6GB RAM minimum
