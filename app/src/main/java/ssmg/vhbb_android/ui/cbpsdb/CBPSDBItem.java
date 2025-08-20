@@ -1,6 +1,6 @@
-package ssmga.vhbb_android.ui.cbpsdb;
+package ssmg.vhbb_android.ui.cbpsdb;
 
-import ssmga.vhbb_android.Constants.CBPSDB;
+import ssmg.vhbb_android.Constants.CBPSDB;
 
 public class CBPSDBItem {
 
