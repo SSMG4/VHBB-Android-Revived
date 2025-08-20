@@ -1,4 +1,4 @@
-package ssmga.vhbb_android;
+package ssmg.vhbb_android;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -11,10 +11,10 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceFragmentCompat;
 import androidx.preference.PreferenceManager;
 
-import ssmga.vhbb_android.Constants.VHBBAndroid;
-import ssmga.vhbb_android.Constants.VitaDB;
-import ssmga.vhbb_android.Utils.CacheUtils;
-import ssmga.vhbb_android.Utils.StorageUtils;
+import ssmg.vhbb_android.Constants.VHBBAndroid;
+import ssmg.vhbb_android.Constants.VitaDB;
+import ssmg.vhbb_android.Utils.CacheUtils;
+import ssmg.vhbb_android.Utils.StorageUtils;
 
 public class SettingsFragment extends PreferenceFragmentCompat {
 
