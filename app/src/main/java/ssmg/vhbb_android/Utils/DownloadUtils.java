@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.Utils;
+package ssmg.vhbb_android.Utils;
 
 import android.Manifest;
 import android.app.Activity;
@@ -15,8 +15,8 @@ import androidx.preference.PreferenceManager;
 
 import java.io.File;
 
-import ssmga.vhbb_android.Constants.VitaDB;
-import ssmga.vhbb_android.R;
+import ssmg.vhbb_android.Constants.VitaDB;
+import ssmg.vhbb_android.R;
 
 public class DownloadUtils {
 
