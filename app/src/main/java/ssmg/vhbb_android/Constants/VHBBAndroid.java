@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.Constants;
+package ssmg.vhbb_android.Constants;
 
 /**
  * Constants relating to VHBB-Android
