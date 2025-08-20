@@ -1,4 +1,4 @@
-package ssmga.vhbb_android;
+package ssmg.vhbb_android;
 
 import android.Manifest;
 import android.content.Intent;
@@ -20,10 +20,10 @@ import androidx.navigation.ui.NavigationUI;
 
 import com.google.android.material.navigation.NavigationView;
 
-import ssmga.vhbb_android.Constants.VHBBAndroid;
-import ssmga.vhbb_android.Constants.VitaDB;
-import ssmga.vhbb_android.Utils.NetworkUtils;
-import ssmga.vhbb_android.Utils.PermissionUtils;
+import ssmg.vhbb_android.Constants.VHBBAndroid;
+import ssmg.vhbb_android.Constants.VitaDB;
+import ssmg.vhbb_android.Utils.NetworkUtils;
+import ssmg.vhbb_android.Utils.PermissionUtils;
 
 public class MainActivity extends AppCompatActivity {
 
