@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.ui.homebrew;
+package ssmg.vhbb_android.ui.homebrew;
 
 import android.annotation.SuppressLint;
 
@@ -6,8 +6,8 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import ssmga.vhbb_android.BaseItem;
-import ssmga.vhbb_android.Constants.VitaDB;
+import ssmg.vhbb_android.BaseItem;
+import ssmg.vhbb_android.Constants.VitaDB;
 
 /**
  * Homebrew item
