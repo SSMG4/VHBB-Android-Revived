@@ -144,6 +144,18 @@
 		"icon": "https://rinnegatamante.eu/vitadb/icons/18746b487153dc1ca3d728ce57b841b6e8faeca65a0900aa46864f73d07642c8.png"
 	},
 	{
+		"name": "TropHAXSE Mod",
+		"filename": "TrophaxSEv1.5.vpk",
+		"data_filename": "",
+		"version": "v1.5",
+		"author": "Jeroen Lammersma & LiEnby",
+		"description": "A Standalone app for unlocking PSN trophies.",
+		"url": "https://gitlab.com/jeroenlammersma/trophaxse/-/raw/assets/TrophaxSEv1.5.vpk",
+		"data_url": "",
+		"date": "31/10/2023",
+		"icon": "https://bitbucket.org/lienby/trophaxse/raw/5e3d65d9e1138f0283f9a448f79ba97f577fbf51/app/sce_sys/icon0.png"
+	},
+	{
 		"name": "TubeVita",
 		"filename": "Tubevita.vpk",
 		"data_filename": "",
