@@ -31,11 +31,14 @@ A PS Vita Homebrew Browser client for Android with great potential
 
 ### Building
 >[!WARNING]
->This tutorial assumes you have the same requirements and environment as myself, SSMG4, which includes:
+>The source code assumes you have the same requirements and environment as myself, SSMG4, which includes:
 >- Eclispe Adotium's JDK 17 (Or ideally any JDK 17 environments)
 >- Gradle 7.6.4 (automatically installed by Gradlew.bat or Android Studio)
 >- 4-6GB RAM minimum
->- Have you Android SDK located in D:
+>- Have your Android SDK located in D:
+>If not, this tutorial will help you setup the right environment and requirements.
+
+(Tutorial will be finished once i get my beautiful sleep 💤)
 
 ### Screenshots
 <img src="screenshots/VitaDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Plugins-Preview.png" width="400"> &nbsp; <img src="screenshots/CBPSDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Extras-Preview.png" width="400"> &nbsp; <img src="screenshots/CustomRepos1-Preview.png" width="400"> &nbsp; <img src="screenshots/Drawer-Preview.png" width="400"> &nbsp; <img src="screenshots/Homebrew-Preview.png" width="400">
