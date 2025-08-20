@@ -1,4 +1,4 @@
-package ssmga.vhbb_android.Utils;
+package ssmg.vhbb_android.Utils;
 
 import android.content.ContentUris;
 import android.content.Context;
