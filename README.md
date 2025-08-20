@@ -1,7 +1,6 @@
 # VHBB-Android Revived
 
 ## THE SOURCE CODE IS CURRENTLY BEING UPDATED, PLEASE DONT USE IT
-
 - Latest Update: 2025.08.18
 - Latest Version: stable-1_01
 
