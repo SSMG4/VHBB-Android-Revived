@@ -36,10 +36,21 @@ A PS Vita Homebrew Browser client for Android with great potential
 >- Gradle 7.6.4 (automatically installed by Gradlew.bat or Android Studio)
 >- 4-6GB RAM minimum
 >- Have your Android SDK located in D:
+>- Are running Windows or UNIX (preferably Windows 10/11 or for UNIX preferably Ubuntu 22.04 LTS)
 >If not, this tutorial will help you setup the right environment and requirements.
-
+#### Windows
+- Open Windows Command Prompt
 - Clone the repository using Git:
 ```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
+- Go to the direcotry using cd:
+```cd VHBB-Android-Revived```
+- Compile the app using Gradlew.bat:
+```gradlew.bat AssembleDebug```
+- Wait for it to compile and say:
+```bash
+BUILD SUCCESSFUL in 50s
+28 actionable tasks: 28 executed
+```
 
 ### Screenshots
 <img src="screenshots/VitaDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Plugins-Preview.png" width="400"> &nbsp; <img src="screenshots/CBPSDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Extras-Preview.png" width="400"> &nbsp; <img src="screenshots/CustomRepos1-Preview.png" width="400"> &nbsp; <img src="screenshots/Drawer-Preview.png" width="400"> &nbsp; <img src="screenshots/Homebrew-Preview.png" width="400">
