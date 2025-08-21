@@ -44,38 +44,43 @@ public class HomebrewFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.fragment_homebrew, container, false);
         setHasOptionsMenu(true);
 
-        mRecyclerView = rootView.findViewById(R.id.recycler_view);
-        mRecyclerView.setHasFixedSize(true);
-        mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
+    mRecyclerView = rootView.findViewById(R.id.recycler_view);
+    mRecyclerView.setHasFixedSize(true);
+    mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
 
-        mHomebrewList = new ArrayList<>();
-        mQueue = Volley.newRequestQueue(requireContext());
-        jsonParse();
+    mHomebrewList = new ArrayList<>();
+    mQueue = Volley.newRequestQueue(requireContext());
+    jsonParse();
 
-        mBottomNav = rootView.findViewById(R.id.bottom_nav);
-        mBottomNav.setOnNavigationItemSelectedListener(item -> {
-            switch (item.getItemId()) {
-                case R.id.bnav_all:
-                    mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_ALL));
-                    return true;
-                case R.id.bnav_original_games:
-                    mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_ORIGINAL_GAMES));
-                    return true;
-                case R.id.bnav_game_ports:
-                    mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_GAME_PORTS));
-                    return true;
-                case R.id.bnav_utilities:
-                    mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_UTILISES));
-                    return true;
-                case R.id.bnav_emulators:
-                    mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_EMULATORS));
-                    return true;
-            }
+    mBottomNav = rootView.findViewById(R.id.bottom_nav);
+    mBottomNav.setOnNavigationItemSelectedListener(item -> {
+        if (mHomebrewAdapter == null) {
+            // The adapter is not yet initialized, so do nothing.
             return false;
-        });
+        }
 
-        return rootView;
-    }
+        switch (item.getItemId()) {
+            case R.id.bnav_all:
+                mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_ALL));
+                return true;
+            case R.id.bnav_original_games:
+                mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_ORIGINAL_GAMES));
+                return true;
+            case R.id.bnav_game_ports:
+                mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_GAME_PORTS));
+                return true;
+            case R.id.bnav_utilities:
+                mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_UTILISES));
+                return true;
+            case R.id.bnav_emulators:
+                mHomebrewAdapter.getTypeFilter().filter(String.valueOf(VitaDB.TYPE_EMULATORS));
+                return true;
+        }
+        return false;
+    });
+
+    return rootView;
+}
 
     private void jsonParse () {
         JsonArrayRequest request = new JsonArrayRequest(Request.Method.GET, VitaDB.HOMEBREW_LIST_JSON_URL, null,
