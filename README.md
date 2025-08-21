@@ -5,7 +5,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SSMG4/VHBB-Android-Revived/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/SSMG4/VHBB-Android-Revived)
 ![GitHub top language](https://img.shields.io/github/languages/top/SSMG4/VHBB-Android-Revived)
-![Issues & Submissions](https://img.shields.io/github/issues/SSMG4/Android-Crack-Database)
+![Issues & Submissions](https://img.shields.io/github/issues/SSMG4/VHBB-Android-Revived)
 
 *(Please dont hesitate to open issues or pull requests if anything is wrong, id be happy to help fix them!)*
 
