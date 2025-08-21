@@ -84,23 +84,23 @@ public class HomebrewFragment extends Fragment {
                         for (int i = 0; i < response.length(); i++) {
                             JSONObject item = response.getJSONObject(i);
 
-                            String name             = item.optString(VitaDB.JSON_NAME, "");
-                            String iconUrl          = item.optString(VitaDB.JSON_ICON, "");
-                            String version          = item.optString(VitaDB.JSON_VERSION, "");
-                            String author           = item.optString(VitaDB.JSON_AUTHOR, "");
-                            String description      = item.optString(VitaDB.JSON_DESCRIPTION, "");
-                            String longDescription  = item.optString(VitaDB.JSON_LONG_DESCRIPTION, "");
-                            String date             = item.optString(VitaDB.JSON_DATE, "");
-                            String sourceUrl        = item.optString(VitaDB.JSON_SOURCE, "");
-                            String releaseUrl       = item.optString(VitaDB.JSON_RELEASE_PAGE, "");
-                            String url              = item.optString(VitaDB.JSON_URL, "");
-                            String dataUrl          = item.optString(VitaDB.JSON_DATA, "");
-                            String screenshotsUrl   = item.optString(VitaDB.JSON_SCREENSHOTS, "");
-                            int type                = item.optInt(VitaDB.JSON_TYPE, 4);
-                            int id                  = item.optInt(VitaDB.JSON_ID, 0);
-                            int downloads           = item.optInt(VitaDB.JSON_DOWNLOADS, 0);
-                            long size               = item.optLong(VitaDB.JSON_SIZE, 0);
-                            long dataSize           = item.optLong(VitaDB.JSON_DATA_SIZE, 0);
+                            String name          = item.optString(VitaDB.JSON_NAME, "");
+                            String iconUrl       = item.optString(VitaDB.JSON_ICON, "");
+                            String version       = item.optString(VitaDB.JSON_VERSION, "");
+                            String author        = item.optString(VitaDB.JSON_AUTHOR, "");
+                            String description   = item.optString(VitaDB.JSON_DESCRIPTION, "");
+                            String longDescription = item.optString(VitaDB.JSON_LONG_DESCRIPTION, "");
+                            String date          = item.optString(VitaDB.JSON_DATE, "");
+                            String sourceUrl     = item.optString(VitaDB.JSON_SOURCE, "");
+                            String releaseUrl    = item.optString(VitaDB.JSON_RELEASE_PAGE, "");
+                            String url           = item.optString(VitaDB.JSON_URL, "");
+                            String dataUrl       = item.optString(VitaDB.JSON_DATA, "");
+                            String screenshotsUrl = item.optString(VitaDB.JSON_SCREENSHOTS, "");
+                            int type             = item.optInt(VitaDB.JSON_TYPE, 4);
+                            int id               = item.optInt(VitaDB.JSON_ID, 0);
+                            int downloads        = item.optInt(VitaDB.JSON_DOWNLOADS, 0);
+                            long size            = item.optLong(VitaDB.JSON_SIZE, 0);
+                            long dataSize        = item.optLong(VitaDB.JSON_DATA_SIZE, 0);
 
                             mHomebrewList.add(new HomebrewItem(name, iconUrl, version, author, description, longDescription, date, sourceUrl, releaseUrl, url, dataUrl, screenshotsUrl, type, id, downloads, size, dataSize));
                         }
@@ -119,23 +119,24 @@ public class HomebrewFragment extends Fragment {
         inflater.inflate(R.menu.search_menu, menu);
         MenuItem searchItem = menu.findItem(R.id.action_search);
 
-    SearchView searchView = (SearchView) searchItem.getActionView();
-    searchView.setImeOptions(EditorInfo.IME_ACTION_DONE);
-    searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
-        @Override
-        public boolean onQueryTextSubmit(String query) {
-            return false;
-        }
-
-        @Override
-        public boolean onQueryTextChange(String newText) {
-            if (mHomebrewAdapter != null) {
-                mHomebrewAdapter.getSearchFilter().filter(newText);
+        SearchView searchView = (SearchView) searchItem.getActionView();
+        searchView.setImeOptions(EditorInfo.IME_ACTION_DONE);
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String query) {
+                return false;
             }
-            mBottomNav.setSelectedItemId(R.id.bnav_all);
-            return false;
-        }
-    });
 
-    super.onCreateOptionsMenu(menu, inflater);
+            @Override
+            public boolean onQueryTextChange(String newText) {
+                if (mHomebrewAdapter != null) {
+                    mHomebrewAdapter.getSearchFilter().filter(newText);
+                }
+                mBottomNav.setSelectedItemId(R.id.bnav_all);
+                return false;
+            }
+        });
+        
+        super.onCreateOptionsMenu(menu, inflater);
+    }
 }
