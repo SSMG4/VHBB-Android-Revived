@@ -38,6 +38,7 @@ A PS Vita Homebrew Browser client for Android with great potential
 >- Have Android SDK installed and located in D:
 >- Are running Windows or UNIX (preferably Windows 10-11 or for UNIX preferably Ubuntu 22.04 LTS/OS X 11-12)
 >If not, this tutorial will help you setup the right environment and requirements.
+
 >[!NOTE]
 >The default paths of the source code are Windows path, so please, if you're using UNIX, convert them to UNIX paths.
 #### Windows Using Gradlew.bat
