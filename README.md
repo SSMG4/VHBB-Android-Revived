@@ -43,7 +43,7 @@ A PS Vita Homebrew Browser client for Android with great potential
 - Clone the repository using Git:
 ```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
 - Open File Explorer
-- Go to the directory where ```\VHBB-Android-Revived\``` is located
+- Navigate to where ```\VHBB-Android-Revived\``` is located
 - Open the file ```local.properties```
 - Edit ```sdk.dir=D:\\AppData\\Android\\Sdk``` to match the location of your Android SDK
 - Save your changes, then open ```gradle.properties```
@@ -89,24 +89,14 @@ org.gradle.java.home=/usr/lib/jvm/jdk-17
 - Save and exit.
 
 - Back in the terminal, build the project using the Gradle wrapper script (`gradlew` instead of `gradlew.bat`):
-
-```bash
-./gradlew assembleDebug
-```
-
+```./gradlew assembleDebug```
 - Wait for the build to complete. If successful, you should see something like:
-
 ```bash
 BUILD SUCCESSFUL in 50s // time depends on your environment
 28 actionable tasks: 28 executed
 ```
-
 - The compiled APK will be located in:
-
-```bash
-VHBB-Android-Revived/app/build/outputs/apk/debug/
-```
-
+```.../VHBB-Android-Revived/app/build/outputs/apk/debug/```
 - Transfer the APK to your Android device and install it 
 
 ---
