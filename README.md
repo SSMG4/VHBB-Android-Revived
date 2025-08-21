@@ -38,6 +38,8 @@ A PS Vita Homebrew Browser client for Android with great potential
 >- Have Android SDK installed and located in D:
 >- Are running Windows or UNIX (preferably Windows 10-11 or for UNIX preferably Ubuntu 22.04 LTS/OS X 11-12)
 >If not, this tutorial will help you setup the right environment and requirements.
+>[!NOTE]
+>The default paths of the source code are Windows path, so please, if you're using UNIX, convert them to UNIX paths.
 #### Windows Using Gradlew.bat
 - Open Windows Command Prompt
 - Clone the repository using Git:
@@ -62,8 +64,6 @@ BUILD SUCCESSFUL in 50s // The time depends on your environment.
 - You can now transfer this APK to your phone and install the app!
 
 #### UNIX Using Gradlew
->[!NOTE]
->The default paths of the source code are Windows path, so please convert them to UNIX paths.
 - Open your **Terminal**
 - Clone the repository using Git: 
 ```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
