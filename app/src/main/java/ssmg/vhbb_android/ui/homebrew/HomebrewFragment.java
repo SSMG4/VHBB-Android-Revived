@@ -127,13 +127,14 @@ public class HomebrewFragment extends Fragment {
                 return false;
             }
 
-            @Override
-            public boolean onQueryTextChange (String newText) {
-                mHomebrewAdapter.getSearchFilter().filter(newText);
-                mBottomNav.setSelectedItemId(R.id.bnav_all);
-                return false;
-            }
-        });
+    @Override
+    public boolean onQueryTextChange(String newText) {
+        if (mHomebrewAdapter != null) {
+            mHomebrewAdapter.getSearchFilter().filter(newText);
+    }
+    mBottomNav.setSelectedItemId(R.id.bnav_all);
+    return false;
+}
 
         super.onCreateOptionsMenu(menu, inflater);
     }
