@@ -75,14 +75,14 @@ BUILD SUCCESSFUL in 50s // The time depends on your environment.
 - Edit the Android SDK path. On UNIX, paths use `/` instead of `\`. Example:
 ```sdk.dir=/home/username/Android/Sdk```
 
-*(replace `username` with your actual system username and point it to your installed SDK location)*
+  *(replace `username` with your actual system username and point it to your installed SDK location)*
 
 - Save your changes, then edit `gradle.properties`:
 ```nano gradle.properties```
 - Update the Java home path to your JDK installation. Example:
 ```org.gradle.java.home=/usr/lib/jvm/jdk-17```
 
-*(verify this path with `echo $JAVA_HOME` or `readlink -f $(which java)`)*
+  *(verify this path with `echo $JAVA_HOME` or `readlink -f $(which java)`)*
 
 - Save and exit.
 - Back in the terminal, build the project using the Gradle wrapper script (`gradlew` instead of `gradlew.bat`):
@@ -95,8 +95,8 @@ BUILD SUCCESSFUL in 50s // time depends on your environment
 - The compiled APK will be located in:
 ```.../VHBB-Android-Revived/app/build/outputs/apk/debug/```
 - Transfer the APK to your Android device and install it
-- 
-**Tip: if you get `Permission denied` running `./gradlew`, you may need to make it executable first:
+ 
+  **Tip: if you get `Permission denied` running `./gradlew`, you may need to make it executable first:
 ```chmod +x gradlew```**
 
 ### Screenshots
