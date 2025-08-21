@@ -77,7 +77,6 @@ BUILD SUCCESSFUL in 50s // The time depends on your environment.
 *(replace `username` with your actual system username and point it to your installed SDK location)*
 - Save your changes, then edit `gradle.properties`:
 ```nano gradle.properties```
-
 - Update the Java home path to your JDK installation. Example:
 ```org.gradle.java.home=/usr/lib/jvm/jdk-17```
 *(verify this path with `echo $JAVA_HOME` or `readlink -f $(which java)`)*
@@ -92,12 +91,8 @@ BUILD SUCCESSFUL in 50s // time depends on your environment
 - The compiled APK will be located in:
 ```.../VHBB-Android-Revived/app/build/outputs/apk/debug/```
 - Transfer the APK to your Android device and install it 
-
----
-
-Tip: if you get `Permission denied` running `./gradlew`, you may need to make it executable first:
-```chmod +x gradlew```
-
+**Tip: if you get `Permission denied` running `./gradlew`, you may need to make it executable first:
+```chmod +x gradlew```**
 
 ### Screenshots
 <img src="screenshots/VitaDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Plugins-Preview.png" width="400"> &nbsp; <img src="screenshots/CBPSDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Extras-Preview.png" width="400"> &nbsp; <img src="screenshots/CustomRepos1-Preview.png" width="400"> &nbsp; <img src="screenshots/Drawer-Preview.png" width="400"> &nbsp; <img src="screenshots/Homebrew-Preview.png" width="400">
