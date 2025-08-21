@@ -37,6 +37,7 @@ A PS Vita Homebrew Browser client for Android with great potential
 >- 4-6GB RAM minimum
 >- Have Android SDK installed and located in D:
 >- Are running Windows or UNIX (preferably Windows 10-11 or for UNIX preferably Ubuntu 22.04 LTS/OS X 11-12)
+>
 >If not, this tutorial will help you setup the right environment and requirements.
 
 >[!NOTE]
