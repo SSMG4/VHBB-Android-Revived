@@ -62,7 +62,8 @@ BUILD SUCCESSFUL in 50s // The time depends on your environment.
 - You can now transfer this APK to your phone and install the app!
 
 #### UNIX Using Gradlew
->[!NOTE] The default paths of the source code are Windows path, so please convert them to UNIX paths.
+>[!NOTE]
+>The default paths of the source code are Windows path, so please convert them to UNIX paths.
 - Open your **Terminal**
 - Clone the repository using Git: 
 ```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
