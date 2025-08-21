@@ -38,7 +38,8 @@ A PS Vita Homebrew Browser client for Android with great potential
 >- Have your Android SDK located in D:
 >If not, this tutorial will help you setup the right environment and requirements.
 
-(Tutorial will be finished once i get my beautiful sleep 💤)
+- Clone the repository using Git:
+```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
 
 ### Screenshots
 <img src="screenshots/VitaDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Plugins-Preview.png" width="400"> &nbsp; <img src="screenshots/CBPSDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Extras-Preview.png" width="400"> &nbsp; <img src="screenshots/CustomRepos1-Preview.png" width="400"> &nbsp; <img src="screenshots/Drawer-Preview.png" width="400"> &nbsp; <img src="screenshots/Homebrew-Preview.png" width="400">
