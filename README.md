@@ -35,23 +35,31 @@ A PS Vita Homebrew Browser client for Android with great potential
 >- Eclispe Adotium's JDK 17 (Or ideally any JDK 17 environments)
 >- Gradle 7.6.4 (automatically installed by Gradlew.bat or Android Studio)
 >- 4-6GB RAM minimum
->- Have your Android SDK located in D:
+>- Have Android SDK installed and located in D:
 >- Are running Windows or UNIX (preferably Windows 10/11 or for UNIX preferably Ubuntu 22.04 LTS)
 >If not, this tutorial will help you setup the right environment and requirements.
-#### Windows
+#### Windows Using Gradlew.bat
 - Open Windows Command Prompt
 - Clone the repository using Git:
 ```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
-- Go to the direcotry using cd:
+- Open File Explorer
+- Go to the directory where ```\VHBB-Android-Revived\``` is located
+- Open the file ```local.properties```
+- Edit ```sdk.dir=D:\\AppData\\Android\\Sdk``` to match the location of your Android SDK
+- Save your changes, then open ```gradle.properties```
+- Edit ```org.gradle.java.home=D:/Programs/Eclipse Adoptium/jdk-17.0.16.8-hotspot``` to match the location of your Java environment
+- Save your changes, and now go to Command Prompt again
+- Go to the directory using cd:
 ```cd VHBB-Android-Revived```
 - Compile the app using Gradlew.bat:
 ```gradlew.bat AssembleDebug```
 - Wait for it to compile and say:
 ```bash
-BUILD SUCCESSFUL in 50s
+BUILD SUCCESSFUL in 50s // The time depends on your environment.
 28 actionable tasks: 28 executed
 ```
-
+- Once done, the APK generated should be outputed to: ```...\VHBB-Android-Revived-master\app\build\outputs\apk\debug```
+- You can now transfer this APK to your phone and install the app!
 ### Screenshots
 <img src="screenshots/VitaDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Plugins-Preview.png" width="400"> &nbsp; <img src="screenshots/CBPSDB-Preview.png" width="400"> &nbsp; <img src="screenshots/Extras-Preview.png" width="400"> &nbsp; <img src="screenshots/CustomRepos1-Preview.png" width="400"> &nbsp; <img src="screenshots/Drawer-Preview.png" width="400"> &nbsp; <img src="screenshots/Homebrew-Preview.png" width="400">
 
