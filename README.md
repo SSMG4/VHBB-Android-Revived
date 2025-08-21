@@ -62,6 +62,7 @@ BUILD SUCCESSFUL in 50s // The time depends on your environment.
 - You can now transfer this APK to your phone and install the app!
 
 #### UNIX Using Gradlew
+>[!NOTE] The default paths of the source code are Windows path, so please convert them to UNIX paths.
 - Open your **Terminal**
 - Clone the repository using Git: 
 ```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
@@ -70,24 +71,16 @@ BUILD SUCCESSFUL in 50s // The time depends on your environment.
 - Open the file `local.properties` with your preferred editor (e.g. nano, vim, or VS Code):
 ```nano local.properties```
 - Edit the Android SDK path. On UNIX, paths use `/` instead of `\`. Example:
-```properties
-sdk.dir=/home/username/Android/Sdk
-```
+```sdk.dir=/home/username/Android/Sdk```
 *(replace `username` with your actual system username and point it to your installed SDK location)*
 
 - Save your changes, then edit `gradle.properties`:
 ```nano gradle.properties```
 
 - Update the Java home path to your JDK installation. Example:
-
-```properties
-org.gradle.java.home=/usr/lib/jvm/jdk-17
-```
-
+```org.gradle.java.home=/usr/lib/jvm/jdk-17```
 *(verify this path with `echo $JAVA_HOME` or `readlink -f $(which java)`)*
-
 - Save and exit.
-
 - Back in the terminal, build the project using the Gradle wrapper script (`gradlew` instead of `gradlew.bat`):
 ```./gradlew assembleDebug```
 - Wait for the build to complete. If successful, you should see something like:
