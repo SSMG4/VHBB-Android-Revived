@@ -5,6 +5,9 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SSMG4/VHBB-Android-Revived/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/SSMG4/VHBB-Android-Revived)
 ![GitHub top language](https://img.shields.io/github/languages/top/SSMG4/VHBB-Android-Revived)
+![Issues & Submissions](https://img.shields.io/github/issues/SSMG4/Android-Crack-Database)
+
+*(Please dont hesitate to open issues or pull requests if anything is wrong, id be happy to help fix them!)*
 
 ### To Do
 - [X] Update The Source Code
@@ -12,7 +15,7 @@
 - [X] Update The Plugins Database
 
 ### Information
-A PS Vita Homebrew Browser client for Android with great potential
+A PS Vita Homebrew Browser client for Android with great potential!
 
 ### Features
 - VitaDB page containing all its homebrews.
