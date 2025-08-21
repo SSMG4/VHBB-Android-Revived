@@ -115,28 +115,27 @@ public class HomebrewFragment extends Fragment {
     }
 
     @Override
-    public void onCreateOptionsMenu (@NonNull Menu menu, MenuInflater inflater) {
+    public void onCreateOptionsMenu(@NonNull Menu menu, MenuInflater inflater) {
         inflater.inflate(R.menu.search_menu, menu);
         MenuItem searchItem = menu.findItem(R.id.action_search);
 
-        SearchView searchView = (SearchView)searchItem.getActionView();
-        searchView.setImeOptions(EditorInfo.IME_ACTION_DONE);
-        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
-            @Override
-            public boolean onQueryTextSubmit (String query) {
-                return false;
+    SearchView searchView = (SearchView) searchItem.getActionView();
+    searchView.setImeOptions(EditorInfo.IME_ACTION_DONE);
+    searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+        @Override
+        public boolean onQueryTextSubmit(String query) {
+            return false;
+        }
+
+        @Override
+        public boolean onQueryTextChange(String newText) {
+            if (mHomebrewAdapter != null) {
+                mHomebrewAdapter.getSearchFilter().filter(newText);
             }
+            mBottomNav.setSelectedItemId(R.id.bnav_all);
+            return false;
+        }
+    });
 
-    @Override
-    public boolean onQueryTextChange(String newText) {
-        if (mHomebrewAdapter != null) {
-            mHomebrewAdapter.getSearchFilter().filter(newText);
-    }
-    mBottomNav.setSelectedItemId(R.id.bnav_all);
-    return false;
-}
-
-        super.onCreateOptionsMenu(menu, inflater);
-    }
-
+    super.onCreateOptionsMenu(menu, inflater);
 }
