@@ -40,19 +40,19 @@ A PS Vita Homebrew Browser client for Android with great potential
 >If not, this tutorial will help you setup the right environment and requirements.
 
 >[!NOTE]
->The default paths of the source code are Windows path, so please, if you're using UNIX, convert them to UNIX paths.
+>The default paths of the source code are Windows paths, so please if you're using UNIX, convert them to UNIX paths.
 #### Windows Using Gradlew.bat
-- Open Windows Command Prompt
+- Open **Windows Command Prompt**
 - Clone the repository using Git:
 ```git clone https://github.com/SSMG4/VHBB-Android-Revived.git```
 - Open File Explorer
-- Navigate to where ```\VHBB-Android-Revived\``` is located
+- Navigate to the folder where `\VHBB-Android-Revived\` is located
 - Open the file ```local.properties```
 - Edit ```sdk.dir=D:\\AppData\\Android\\Sdk``` to match the location of your Android SDK
-- Save your changes, then open ```gradle.properties```
+- Save your changes, then open `gradle.properties`
 - Edit ```org.gradle.java.home=D:/Programs/Eclipse Adoptium/jdk-17.0.16.8-hotspot``` to match the location of your Java environment
 - Save your changes, and now back to the Command Prompt
-- Go to the directory using cd:
+- Navigate to the directory using cd:
 ```cd VHBB-Android-Revived```
 - Compile the app using Gradlew.bat:
 ```gradlew.bat AssembleDebug```
@@ -75,7 +75,6 @@ BUILD SUCCESSFUL in 50s // The time depends on your environment.
 - Edit the Android SDK path. On UNIX, paths use `/` instead of `\`. Example:
 ```sdk.dir=/home/username/Android/Sdk```
 *(replace `username` with your actual system username and point it to your installed SDK location)*
-
 - Save your changes, then edit `gradle.properties`:
 ```nano gradle.properties```
 
